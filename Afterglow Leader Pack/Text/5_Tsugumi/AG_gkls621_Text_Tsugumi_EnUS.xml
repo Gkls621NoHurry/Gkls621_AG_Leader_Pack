@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+        <Row Tag="LOC_AGENDA_TSUGUMI_gkls621_NAME" Language="en_US">
+			<Text>Service First</Text>
+		</Row>
+        <Row Tag="LOC_AGENDA_TSUGUMI_gkls621_DESCRIPTION" Language="en_US">
+			<Text>Values [ICON_Amenities] Amenities and actively collects Luxury resources. Likes civilizations with high [ICON_Gold] Gold income and happy citizens; dislikes civilizations with high [ICON_Gold] Gold income but unhappy citizens.</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_INFO_LEADER_TSUGUMI_gkls621" Language="en_US">
+			<Text>Tsugumi Hazawa, diligent enough to be the foundation of the girl band life, progressive enough to be the vanguard of the childhood friends' unity. The greatness of the ordinary lies in supporting everyone's life, being steady and reliable, making "enjoying tea and snacks at leisure" an unextravagant common occurrence. And you have never been complacent, always striving for excellence; the dojo polished by ordinary strength will eventually bloom with a more perfect fragrance.</Text>
+		</Row>
+        
+        <Row Tag="LOC_CAFFE_BASE_GOLD_gkls621" Language="en_US">
+			<Text>Base provides + {1_Num} [ICON_Gold] Gold.</Text>
+		</Row>
+		<Row Tag="LOC_CAFFE_DISTRICT_GOLD_gkls621" Language="en_US">
+			<Text>+ {1_Num} [ICON_Gold] Gold from adjacent Districts.</Text>
+		</Row>
+        <Row Tag="LOC_CAFFE_RIVER_GOLD_gkls621" Language="en_US">
+			<Text>+ {1_Num} [ICON_Gold] Gold from adjacent Rivers.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_TSUGU_SHOWCASE_gkls621_NAME" Language="en_US">
+			<Text>Coffee Showcase</Text>
+		</Row>
+        <Row Tag="LOC_BUILDING_TSUGU_SHOWCASE_gkls621_DESCRIPTION" Language="en_US">
+			<Text>Bonus building for the Cafe.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_TSUGU_SHOWCASE_gkls621_THEMING_BONUS" Language="en_US">
+			<Text>[ICON_GreatWork_Product] Product yields +100%, their [ICON_Tourism] Tourism +200%.</Text>
+		</Row>
+        <Row Tag="LOC_CAFFE_AMENITY_FROM_CITY_OUTGOING_ROUTES_gkls621" Language="en_US">
+			<Text>+{1_iBonus} {2_YieldIcon} Amenities from {3_AdjacentSubjectNum} outgoing [ICON_TradeRoute] Trade Routes from this city.</Text>
+		</Row>
+        <Row Tag="LOC_CAFFE_HOUSING_FROM_CITY_INCOMING_ROUTES_gkls621" Language="en_US">
+			<Text>+{1_iBonus} {2_YieldIcon} Housing from {3_AdjacentSubjectNum} incoming [ICON_TradeRoute] Trade Routes to this city.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_TSUGUMI_CAVALRY_ESCORT_MOVEMENT_gkls621_DESCRIPTION" Language="en_US">
+			<Text>Can escort Formation units with higher [ICON_Movement] Movement.</Text>
+		</Row>
+
+		<!--Civilopedia contents-->
+		<Row Tag="LOC_LEADER_TSUGUMI_gkls621_QUOTE" Language="en_US">
+			<Text>Any rooms available?</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_TSUGUMI_gkls621_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>The keyboardist of Afterglow, student council president of Hanasakigawa Girls' Academy, the initiator and spiritual pillar of the band. Possibly the most ordinary girl in BanG Dream! (her design leans somewhat towards being a background character), but precisely because she is ordinary, she is a hard worker who never gives up, no matter how small the task.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_TSUGUMI_gkls621_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>Her family runs the "Hazawa Cafe," a famous shop in the local shopping district. Tsugumi is the cafe's poster girl, and other band girls like Eve also work part-time here. However, despite her family running a cafe, she herself dislikes drinking black coffee. Additionally, she has a special skill of being the fastest to find the brightest star after practice.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_TSUGUMI_gkls621_CHAPTER_HISTORY_PARA_3" Language="en_US">
+			<Text>Moca likes to call Tsugumi "Tsugu", and often teases with the word "Tsugumi," such as in backstage dialogue saying "Tsugu, have you Tsugu'd today?" and using this word to praise bread in comics.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_TSUGUMI_gkls621_CHAPTER_HISTORY_PARA_4" Language="en_US">
+			<Text>For a long time, Tsugumi might be famous as a data query bot related to "BanG Dream! Girls Band Party!". Commands like "ycm" ("Youchema?" - Any rooms available?) to query co-op rooms via the Tsugu bot, and Tsugu's reply "myc" ("Meiyouche!" - No rooms!) when no rooms are available, have been reverse-imported back into Tsugumi's character itself, becoming a sort of stereotype among players.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_TSUGUMI_gkls621_CHAPTER_HISTORY_PARA_5" Language="en_US">
+			<Text>(Compiled from Moegirlpedia)</Text>
+		</Row>
+
+		<Row Tag="LOC_PEDIA_DISTRICTS_PAGE_DISTRICT_CAFFE_gkls621_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>As a common type of establishment, cafes can serve as a respite for petty bourgeois sentiments, aid students burning the midnight oil, and even nurture world-class stock exchanges. As for why it replaces the 'Medical Quarter,' it's probably for the selling convenient stimulants, helping those who haven't slept or haven't slept enough to 'fully recover.' It is said that traditional Italian espresso "Espresso" is meant to be ordered, the cup received immediately, and drunk in one gulp right at the counter.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_DISTRICTS_PAGE_DISTRICT_CAFFE_gkls621_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>The Hazawa Cafe, as the most famous cafe in the BanG Dream! universe, offers both delicious meals and the considerate Tsugumi, making it arguably a "cafe for solving worries."</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_TSUGUMI_gkls621_AGENDA_HIGH_INCOME_HIGH_HAPPINESS" Language="en_US">
+			<Text>Your strong point is your kindness and consideration. Thank you very much!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_TSUGUMI_gkls621_AGENDA_HIGH_INCOME_LOW_HAPPINESS" Language="en_US">
+			<Text>Since we are alive, we must think about making each other happy, not grandly eliminating these needs!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_TSUGUMI_gkls621_AGENDA_HIGH_INCOME_HIGH_HAPPINESS" Language="en_US">
+			<Text>She likes civilizations with high income and happy citizens.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_TSUGUMI_gkls621_AGENDA_HIGH_INCOME_LOW_HAPPINESS" Language="en_US">
+			<Text>She dislikes civilizations that ignore their people and only seek excessive profits.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_TSUGUMI_gkls621_ANY" Language="en_US">
+			<Text>Ah, th-thank you for your hard work! But, I can't be satisfied with this! I must work even harder!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_TSUGUMI_gkls621_ANY" Language="en_US">
+			<Text>I-I'm sorry! I still need to train myself more...!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_TSUGUMI_gkls621_ANY" Language="en_US">
+			<Text>I'm a bit slow by nature, and things often don't go smoothly; sometimes I get discouraged. But, as long as I'm with everyone, I can become positive. I feel like I can put in endless effort!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_TSUGUMI_gkls621_ANY" Language="en_US">
+			<Text>Ah, th-thank you for your hard work! But, I can't be satisfied with this! I must work even harder!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_TSUGUMI_gkls621_ANY" Language="en_US">
+			<Text>I-I'm sorry! I still need to train myself more...!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_TSUGUMI_gkls621_ANY" Language="en_US">
+			<Text>The usual peaceful life is now irreversible... In order to become everyone's support, I'll just have to do my best for now!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_TSUGUMI_gkls621_ANY" Language="en_US">
+			<Text>The usual peaceful life is now irreversible... In order to become everyone's support, I'll just have to do my best for now!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_TSUGUMI_gkls621_ANY" Language="en_US">
+			<Text>This is the first time I've wanted to stop... Who will step forward to encourage me now?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_TSUGUMI_gkls621_ANY" Language="en_US">
+			<Text>This is the first time I've wanted to stop... Who will step forward to encourage me now?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_TSUGUMI_gkls621_ANY" Language="en_US">
+			<Text>You're so kind, always caring for us like this.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_TSUGUMI_gkls621_ANY" Language="en_US">
+			<Text>S-Sorry! I'll be right out!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_TSUGUMI_gkls621_ANY" Language="en_US">
+			<Text>Please accept the Hazawa Cafe's regards: here are cookies I baked myself, cake made by my mom, a-and... the seasonal limited special blend coffee! Please take care of me!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_TSUGUMI_gkls621_ANY" Language="en_US">
+			<Text>...I've caused trouble for everyone...</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_TSUGUMI_gkls621_ANY" Language="en_US">
+			<Text>Accept—your way of thinking? Forgive my bluntness, but I don't have that resolve.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_TSUGUMI_gkls621_ANY" Language="en_US">
+			<Text>Um, well, I'm Tsugumi Hazawa! My family runs a cafe, and I help out there after school! Self-introduction, self-introduction... um... Ah, the band! I'm also in a band! It's called Afterglow, and all the members are super amazing and cool!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_TSUGUMI_gkls621_ANY" Language="en_US">
+			<Text>The Hazawa Cafe offers dessert seating! P-please, would you be happy to grace us with a visit?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_TSUGUMI_gkls621_ANY" Language="en_US">
+			<Text>I also want to catch up to everyone in the future...! Hehe... It's just... for now... could I follow you first?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_TSUGUMI_gkls621_ANY" Language="en_US">
+			<Text>...Is, is this okay?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_TSUGUMI_gkls621_ANY" Language="en_US">
+			<Text>Welcome~</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_TSUGUMI_gkls621_ANY" Language="en_US">
+			<Text>Huh? Are you happy I said that to you? Th-thank you for saying that...</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_TSUGUMI_gkls621_ANY" Language="en_US">
+			<Text>I can't use this as an excuse not to try hard myself!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_TSUGUMI_gkls621_ANY" Language="en_US">
+			<Text>Huh? You... um, what's wrong? Need to get through? Should I move?... Ah—wait, that's not right!</Text>
+		</Row>
+    </LocalizedText>
+</GameData>

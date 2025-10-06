@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+        <Row Tag="LOC_AGENDA_MOCA_gkls621_NAME" Language="zh_Hant_HK">
+			<Text>慢話長情</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_MOCA_gkls621_DESCRIPTION" Language="zh_Hant_HK">
+			<Text>重視 [ICON_Food] 食物與 [ICON_Gold] 金幣產出。喜歡 [ICON_Science] 科技與 [ICON_Culture] 文化產出高，且愛好和平的文明；討厭 [ICON_Science] 科技與 [ICON_Culture] 文化產出高，卻侵略他國的文明。</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_INFO_LEADER_MOCA_gkls621" Language="zh_Hant_HK">
+			<Text>青葉摩卡，一張慢嘴藏不起深情，滿臉壞笑遮不住體恤，平日漫不經心的愉悅，卻能洞察內心最深處的癥結——畢竟麵包與戰略，皆為發酵的智慧。也許往日的習慣。只適合小圈子內逗趣；但拋開積分卡，還有機智法。只消保持輕鬆心態，自不愁時運迎「面」來。</Text>
+		</Row>
+        
+		<Row Tag="LOC_PROJECT_BABANBO_REVIVAL_gkls621_NAME" Language="zh_Hant_HK">
+			<Text>拜託巴巴恩波神</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_BABANBO_REVIVAL_gkls621_SHORT_NAME" Language="zh_Hant_HK">
+			<Text>拜託巴巴恩波神</Text>
+		</Row>
+        <Row Tag="LOC_PROJECT_BABANBO_REVIVAL_gkls621_DESCRIPTION" Language="zh_Hant_HK">
+			<Text>摩卡特色項目，巴巴恩波神死亡時可於宮殿內進行。完成後移除首都的巴巴恩波神像，並使巴巴恩波神復活。</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_BABANBO_STATUE_gkls621_NAME" Language="zh_Hant_HK">
+			<Text>巴巴恩波神像</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_BABANBO_STATUE_gkls621_DESCRIPTION" Language="zh_Hant_HK">
+			<Text>巴巴恩波神死亡後於首都生成的特殊建築。+8 [ICON_Faith] 信仰。</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_MOCA_DIP_gkls621_NAME" Language="zh_Hant_HK">
+			<Text>使館特區</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_MOCA_DIP_gkls621_DESCRIPTION" Language="zh_Hant_HK">
+			<Text>透過建造者建造一座使館特區。</Text>
+		</Row>
+        <Row Tag="LOC_IMPROVEMENT_MOCA_GOV_gkls621_NAME" Language="zh_Hant_HK">
+			<Text>市政廣場</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_MOCA_GOV_gkls621_DESCRIPTION" Language="zh_Hant_HK">
+			<Text>透過建造者建造一座市政廣場。</Text>
+		</Row>
+        <Row Tag="LOC_GREAT_PERSON_CLASS_BABANBO_gkls621_NAME" Language="zh_Hant_HK">
+			<Text>巴巴恩波神</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_BABANBO_gkls621_NAME" Language="zh_Hant_HK">
+			<Text>巴巴恩波神</Text>
+		</Row>
+        <Row Tag="LOC_PROMOTION_CLASS_BABANBO_gkls621_NAME" Language="zh_Hant_HK">
+			<Text>巴巴恩波神</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_REMEDY_gkls621_NAME" Language="zh_Hant_HK">
+			<Text>驅瘟大法</Text>
+		</Row>
+        <Row Tag="LOC_PROMOTION_VOUCHER_gkls621_NAME" Language="zh_Hant_HK">
+			<Text>代金券</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_MELONPAN_gkls621_NAME" Language="zh_Hant_HK">
+			<Text>蜜瓜包</Text>
+		</Row>
+        <Row Tag="LOC_PROMOTION_GOUKOKU_gkls621_NAME" Language="zh_Hant_HK">
+			<Text>Lost One的號哭</Text>
+		</Row>
+        <Row Tag="LOC_PROMOTION_QUICKTONGUE_gkls621_NAME" Language="zh_Hant_HK">
+			<Text>快嘴</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_TRANSFAT_gkls621_NAME" Language="zh_Hant_HK">
+			<Text>脂肪呼叫轉移</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_USUAL_gkls621_NAME" Language="zh_Hant_HK">
+			<Text>日常</Text>
+		</Row>
+        <Row Tag="LOC_PROMOTION_REMEDY_gkls621_DESCRIPTION" Language="zh_Hant_HK">
+			<Text>三環內所有己方單位（含自己）受傷後不會蒙受 [ICON_Strength] 戰鬥力減益，擊殺單位後回復90點 [ICON_Damaged] 生命值。</Text>
+		</Row>
+        <Row Tag="LOC_PROMOTION_VOUCHER_gkls621_DESCRIPTION" Language="zh_Hant_HK">
+			<Text>戰鬥後獲得等於彼此損失生命值總和的 [ICON_Faith] 信仰值與 [ICON_Culture] 文化值。</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_MELONPAN_gkls621_DESCRIPTION" Language="zh_Hant_HK">
+			<Text>若未移動，則本回合+1額外 [ICON_Strength] 攻擊次數。相鄰的己方軍事單位擊殺單位後立刻獲得一次免費 [ICON_Promotion] 升級。</Text>
+		</Row>
+        <Row Tag="LOC_PROMOTION_GOUKOKU_gkls621_DESCRIPTION" Language="zh_Hant_HK">
+			<Text>三環內所有己方單位（含自己）擊殺敵方單位後獲得+10 [ICON_GreatProphet] 大預言家點數與+10 [ICON_GreatMusician] 大音樂家點數。</Text>
+		</Row>
+        <Row Tag="LOC_PROMOTION_QUICKTONGUE_gkls621_DESCRIPTION" Language="zh_Hant_HK">
+			<Text>擊殺基礎戰鬥力更高的單位時獲得1個 [ICON_Envoy] 使者，攻佔城市時獲得2個 [ICON_Governor] 總督頭銜與一項免費科技。</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_TRANSFAT_gkls621_DESCRIPTION" Language="zh_Hant_HK">
+			<Text>回合開始時，六環內所有己方單位（含自己）從每個相鄰的山脈類單元格獲得30 [ICON_Gold] 金幣、30 [ICON_Faith] 信仰。</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_USUAL_gkls621_DESCRIPTION" Language="zh_Hant_HK">
+			<Text>所有城市修建奇觀時+25% [ICON_Production] 生產力。巴巴恩波神每次死亡後，摩卡所有城市+1 [ICON_Amenities] 宜居度，+1 [ICON_Citizen] 人口，每一人口額外提供+4 [ICON_Production] 生產力</Text>
+		</Row>
+        <Row Tag="LOC_ABILITY_BABANBO_gkls621_DESCRIPTION" Language="zh_Hant_HK">
+			<Text>無視控制區以及地形、地貌、河流對 [ICON_Movement] 移動力的減益。每招募過一種 [ICON_GreatPerson] 偉人+6 [ICON_Strength] 戰鬥力。</Text>
+		</Row>
+        <Row Tag="LOC_ABILITY_BABANBO_EXP_gkls621_DESCRIPTION" Language="zh_Hant_HK">
+			<Text>+100%經驗獲取。</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_REMEDY_UNITS_NO_REDUCTION_DAMAGE_gkls621_DESCRIPTION" Language="zh_Hant_HK">
+			<Text>受傷後不會蒙受 [ICON_Strength] 戰鬥力減益。</Text>
+		</Row>
+        <Row Tag="LOC_ABILITY_REMEDY_UNITS_HEAL_FROM_COMBAT_gkls621_DESCRIPTION" Language="zh_Hant_HK">
+			<Text>擊殺單位後回復90點 [ICON_Damaged] 生命值。</Text>
+		</Row>
+        <Row Tag="LOC_ABILITY_GOUGOKU_UNIT_PROPHET_POINT_FROM_KILL_gkls621_DESCRIPTION" Language="zh_Hant_HK">
+			<Text>擊殺敵方單位後獲得+10 [ICON_GreatProphet] 大預言家點數。</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_GOUGOKU_UNIT_MUSICIAN_POINT_FROM_KILL_gkls621_DESCRIPTION" Language="zh_Hant_HK">
+			<Text>擊殺敵方單位後獲得+10 [ICON_GreatMusician] 大音樂家點數。</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_TRANSFAT_UNITS_MOUNTAIN_GOLD_gkls621_DESCRIPTION" Language="zh_Hant_HK">
+			<Text>回合開始時，從每個相鄰的山脈類單元格獲得30 [ICON_Gold] 金幣、30 [ICON_Faith] 信仰。</Text>
+		</Row>
+		<Row Tag="LOC_BABANBO_GREAT_PERSON_COMBAT_gkls621" Language="zh_Hant_HK">
+			<Text>已招募偉人的種類提供+ {Property} [ICON_Strength] 戰鬥力。</Text>
+		</Row>
+
+		<!--Civilopedia contents-->
+		<Row Tag="LOC_LEADER_MOCA_gkls621_QUOTE" Language="zh_Hant_HK">
+			<Text>小摩卡要開動嘍~</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MOCA_gkls621_CHAPTER_HISTORY_PARA_1" Language="zh_Hant_HK">
+			<Text>Afterglow的主音吉他手，一口0.5倍速的軟萌語氣令人欲罷不能。但摩卡唱歌時卻能很流利咬字——所以說，摩~卡~才~不~是~遲~緩~兒~呢~~</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MOCA_gkls621_CHAPTER_HISTORY_PARA_2" Language="zh_Hant_HK">
+			<Text>雖然上課經常睡覺，但卻擁有Afterglow中最優異的課業表現。樂感同樣出眾，只聽過一次的旋律也能演奏出來。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MOCA_gkls621_CHAPTER_HISTORY_PARA_3" Language="zh_Hant_HK">
+			<Text>總是一臉壞笑的摩卡是Afterglow裡最神秘的成員，凡不想透露的事都會用話術蒙混過去，導致連她的四位青梅竹馬也不完全了解她。摩卡平日看起來總是以玩弄朋友為樂，但卻比樂隊其他四人更明白事理，特別是在關心同伴方面，同時也是最懂蘭的人。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MOCA_gkls621_CHAPTER_HISTORY_PARA_4" Language="zh_Hant_HK">
+			<Text>摩卡嗜麵包如命，尤以山吹麵包房出產的麵包最懂她的胃。食量奇大的摩卡一次性打底能吃下十餘份麵包，而後秉承一貫的整蠱精神聲稱「脂肪轉移給小緋了」。她也有攢積分卡的習慣，常常試圖憑此代賬「白嫖」麵包。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MOCA_gkls621_CHAPTER_HISTORY_PARA_5" Language="zh_Hant_HK">
+			<Text>（整理自萌娘百科）</Text>
+		</Row>
+
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_BABANBO_gkls621_CHAPTER_HISTORY_PARA_1" Language="zh_Hant_HK">
+			<Text>詳見偉人頁面中「巴巴恩波神」一節。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_BABANBO_gkls621_CHAPTER_HISTORY_PARA_1" Language="zh_Hant_HK">
+			<Text>「巴巴恩波神」，出自迷你搞笑動畫《BanG Dream! 少女樂團派對☆PICO》第十二集。該集中，為醫治高燒不退的蘭，Afterglow另外四人用盡了一切土方偏方。其中摩卡查找到「烏恩加魯霍岡加族認為感冒是惡魔作祟，向精靈巴巴恩波祈禱，聽說就能痊癒」的說法，於是眾人將蘭與祭品一同供了請神。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_BABANBO_gkls621_CHAPTER_HISTORY_PARA_2" Language="zh_Hant_HK">
+			<Text>這段外傳與「管管邦邦，救救佐倉」的調侃構成呼應，再加上「巴巴恩波神」一說看似信口開河實則與摩卡契合的奇異風格，於是成為了Pico系列最令人難忘的劇集之一。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_REMEDY_gkls621_CHAPTER_HISTORY_PARA_1" Language="zh_Hant_HK">
+			<Text>字面意思，即巴巴恩波神在當地民俗（？）中承擔的治病作用，以及摩卡等人「發揮的職能」。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_VOUCHER_gkls621_CHAPTER_HISTORY_PARA_1" Language="zh_Hant_HK">
+			<Text>摩卡有收集積分卡的愛好，特別是山吹麵包店的卡，還有過只用積分卡結賬（拿麵包吃）的經歷。還因為持有的積分卡過期，而曾在CiRCLE錄音棚裡意圖用蘭的搖滾話筒和大家分享悲傷。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_MELONPAN_gkls621_CHAPTER_HISTORY_PARA_1" Language="zh_Hant_HK">
+			<Text>正如里美喜愛巧克力海螺包，摩卡也有傾心的品類，那便是蜜瓜包。蜜瓜包形似中國人所吃的「菠蘿包」，但口感等均有不同。它也是ACGN作品中的常客，夏娜、椎名真白等經典角色都十分中意蜜瓜包。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_GOUKOKU_gkls621_CHAPTER_HISTORY_PARA_1" Language="zh_Hant_HK">
+			<Text>《Lost One的號哭》是由Neru創作、使用鏡音鈴聲庫呈現的知名術曲，反映了學子迷失學海中的痛苦心境。Afterglow的翻唱版於2018年登場，其中佐倉綾音貢獻了真聲猛幹副歌高音的敬業表演，「佐倉嗓子保護協會」的說法也應運而生。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_QUICKTONGUE_gkls621_CHAPTER_HISTORY_PARA_1" Language="zh_Hant_HK">
+			<Text>摩卡給人的第一印象往往是字字拖長調的說話風格。但小摩卡畢竟是天才，所以很顯然，她的語速也完全可視為「很快」——大音希聲，誰知道字眼之間是否還有字眼呢？</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_TRANSFAT_gkls621_CHAPTER_HISTORY_PARA_1" Language="zh_Hant_HK">
+			<Text>緋瑪麗總是愁減肥，而摩卡偏又吃不胖。一來二去的打趣二人轉中，「脂肪轉移給小緋」的整蠱說法自然成型。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_USUAL_gkls621_CHAPTER_HISTORY_PARA_1" Language="zh_Hant_HK">
+			<Text>Afterglow一行人是共同長大的青梅竹馬，毋須強調便已默契在心的「命運共同體」。在生活中激盪的樂隊時光，連同高處更覺熱力的夕陽，早就烙在成員們心中。</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_MOCA_gkls621_AGENDA_HIGH_SCIENCE_CULTURE_PEACE" Language="zh_Hant_HK">
+			<Text>我那時覺得，我必須陪著蘭，無論何時，都要在她身後推她一把才行。欸~你也是這種想法吧~？</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_MOCA_gkls621_AGENDA_HIGH_SCIENCE_CULTURE_WARMONGER" Language="zh_Hant_HK">
+			<Text>不過，別看他們那樣掙扎，他們可都是很怕孤單的啊……</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_MOCA_gkls621_AGENDA_HIGH_SCIENCE_CULTURE_PEACE" Language="zh_Hant_HK">
+			<Text>她喜歡高度發展且堅守和平的文明。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_MOCA_gkls621_AGENDA_HIGH_SCIENCE_CULTURE_WARMONGER" Language="zh_Hant_HK">
+			<Text>她討厭處於領先地位卻侵略他國的文明。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_MOCA_gkls621_ANY" Language="zh_Hant_HK">
+			<Text>哼~哼~哼~♪</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_MOCA_gkls621_ANY" Language="zh_Hant_HK">
+			<Text>哦呀呀，小摩卡可還不能同意呢~——诶~嘆氣的話，幸福可是會溜走的哦~！</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_MOCA_gkls621_ANY" Language="zh_Hant_HK">
+			<Text>小摩卡可是很溫柔的呢~可不能放著朋友們不管喲。诶嘿~</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_MOCA_gkls621_ANY" Language="zh_Hant_HK">
+			<Text>哼~哼~哼~♪</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_MOCA_gkls621_ANY" Language="zh_Hant_HK">
+			<Text>哦呀呀，小摩卡可還不能同意呢~——诶~嘆氣的話，幸福可是會溜走的哦~！</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_MOCA_gkls621_ANY" Language="zh_Hant_HK">
+			<Text>啊~如果世界上有魔鬼，那麼，你們的同步率可不容小覷呢~[NEWLINE]名偵探小摩卡已經看透，你們兩人關係不是一般地好啊~</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_MOCA_gkls621_ANY" Language="zh_Hant_HK">
+			<Text>啊~如果世界上有魔鬼，那麼，你們的同步率可不容小覷呢~[NEWLINE]名偵探小摩卡已經看透，你們兩人關係不是一般地好啊~</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_MOCA_gkls621_ANY" Language="zh_Hant_HK">
+			<Text>哦，今天也沒人在呢~……沒人看著的話，夕陽一轉眼，就消失了呢……</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_MOCA_gkls621_ANY" Language="zh_Hant_HK">
+			<Text>哦，今天也沒人在呢~……沒人看著的話，夕陽一轉眼，就消失了呢……</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_MOCA_gkls621_ANY" Language="zh_Hant_HK">
+			<Text>不客氣~那小摩卡也大大方方收下了喲~</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_MOCA_gkls621_ANY" Language="zh_Hant_HK">
+			<Text>不客氣~那小摩卡也大大方方收下了喲~</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_MOCA_gkls621_ANY" Language="zh_Hant_HK">
+			<Text>小摩卡帶來的可是山吹麵包房的麵包套餐喲：培根蝦麵包啦，羊角包啦，甚至還有意式夾心奶酪千層酥呢——吶~不想一口搶不到，就趕緊開動哦~</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_MOCA_gkls621_ANY" Language="zh_Hant_HK">
+			<Text>唔~可一點也不鶇喲~！</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_MOCA_gkls621_ANY" Language="zh_Hant_HK">
+			<Text>唔~可一點也不鶇喲~！</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_MOCA_gkls621_ANY" Language="zh_Hant_HK">
+			<Text>我的名字是青葉摩卡，目前在Afterglow擔任吉他手，哦~，還有，很喜歡麵包~</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_MOCA_gkls621_ANY" Language="zh_Hant_HK">
+			<Text>我們附近有一家很美味的麵包店哦~現在要去嗎？</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_MOCA_gkls621_ANY" Language="zh_Hant_HK">
+			<Text>……诶？我在做什麼？是那裡啦，大佬。要順路去下「老地方」，你那邊的——麵包房~</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_MOCA_gkls621_ANY" Language="zh_Hant_HK">
+			<Text>看來你也很有故事嘛~作為交換，小摩卡可以給你山吹麵包房的珍稀絕版卡券喲~</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_MOCA_gkls621_ANY" Language="zh_Hant_HK">
+			<Text>啊，辛苦了。竟然在這裡碰到你，真是巧啊~</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_MOCA_gkls621_ANY" Language="zh_Hant_HK">
+			<Text>呼~看到你的笑容，現在放下心來就開始犯睏了……</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_MOCA_gkls621_ANY" Language="zh_Hant_HK">
+			<Text>呼，呼，呼~。你走夜路的時候，必須要更加小心了呢~</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_MOCA_gkls621_ANY" Language="zh_Hant_HK">
+			<Text>真過分啊~連聰明的小摩卡都開始不明白，你為什麼會走到這種地步呢？</Text>
+		</Row>
+    </LocalizedText>
+</GameData>

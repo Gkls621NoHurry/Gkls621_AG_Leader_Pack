@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+        <Row Tag="LOC_LEADER_RAN_gkls621_NAME" Language="en_US">
+			<Text>Ran Mitake</Text>
+		</Row>
+
+		<Row Tag="LOC_TRAIT_LEADER_RAN_gkls621_NAME" Language="en_US">
+			<Text>Defiant Red Mesh</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_RAN_gkls621_DESCRIPTION" Language="en_US">
+			<Text>War Weariness tripled, but a city's non-Food yields are unaffected by negative Amenities. All military units gain [ICON_Strength] Combat Strength equal to the sum of the maximum Amenity loss from War Weariness each city has ever suffered. Cities that are Displeased/Unhappy/Unrest/Revolt produce military units with +50%/100%/200%/400% [ICON_Production] Production, respectively. Units produced by cities with negative [ICON_Amenities] Amenities receive double Flanking and Support bonuses; these bonuses are quadrupled if the city is in "Revolt".[NEWLINE]Pillaging Plantations also grants [ICON_Damaged] HP, [ICON_Science] Science, and [ICON_Culture] Culture. Starts with 60% of the initial research progress for "Irrigation".</Text>
+        </Row>
+        <Row Tag="LOC_DISTRICT_IKEBANA_FAMILY_gkls621_NAME" Language="en_US">
+			<Text>Ikebana Family</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_IKEBANA_FAMILY_gkls621_DESCRIPTION" Language="en_US">
+			<Text>A unique District for Ran Mitake that replaces the Garden. Has a lower base cost. Provides [ICON_GreatGeneral] Great General points. Has [ICON_Fortifying] Defensive Strength and can perform [ICON_Range] Ranged Attacks. +10 Strategic Resource stockpile (on Standard speed). Grants two Anti-Cavalry units when this district is completed, and one when a building within it is repaired or completed.[NEWLINE]Randomly generates a Plantation Luxury resource on an adjacent unimproved tile. All unimproved Luxury resource tiles in this city provide +3 [ICON_Science] Science and +3 [ICON_Gold] Gold, which are doubled during a Golden Age.</Text>
+		</Row>
+    </LocalizedText>
+</GameData>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+        <Row Tag="LOC_LEADER_TOMOE_gkls621_NAME" Language="en_US">
+			<Text>Tomoe Udagawa</Text>
+		</Row>
+
+		<Row Tag="LOC_TRAIT_LEADER_TOMOE_gkls621_NAME" Language="en_US">
+			<Text>Flavor Journey</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_TOMOE_gkls621_DESCRIPTION" Language="en_US">
+			<Text>Becomes Suzerain of all previously encountered City-States when founding a Pantheon or circumnavigating the globe, and grant +3 [ICON_Envoy] Envoys to already Suzerained City-States. Each type of City-State you are Suzerain of provides +1 [ICON_Movement] Movement to all units. When killing a unit, if you are Suzerain of multiple City-States of the same type, your Capital gains +1 corresponding yield. Gain one [ICON_Envoy] Envoy when clearing a Barbarian Camp or exploring a Goody Hut.</Text>
+        </Row>
+        <Row Tag="LOC_UNIT_TAIKO_TEAM_gkls621_NAME" Language="en_US">
+			<Text>Taiko Team</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_TAIKO_TEAM_gkls621_DESCRIPTION" Language="en_US">
+			<Text>A unique unit for Tomoe Udagawa that replaces the Builder. Has lower base cost and higher [ICON_Movement] Movement, and ignores Zone of Control. After using a [ICON_Charges] charge, has a chance to generate a Goody Hut on an unowned tile within 6 tiles.</Text>
+		</Row>
+    </LocalizedText>
+</GameData>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<Row Tag="LOC_CIVILIZATION_AG_gkls621_NAME" Language="zh_Hant_HK">
+			<Text>Afterglow</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_AG_gkls621_DESCRIPTION" Language="zh_Hant_HK">
+			<Text>Afterglow帝國</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_AG_gkls621_ADJECTIVE" Language="zh_Hant_HK">
+			<Text>Afterglow的</Text>
+		</Row>
+        <Row Tag="LOC_TRAIT_CIVILIZATION_AG_gkls621_NAME" Language="zh_Hant_HK">
+			<Text>一如既往</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_AG_gkls621_DESCRIPTION" Language="zh_Hant_HK">
+			<Text>所有 [ICON_Governor] 總督就職只需要兩回合，且產生的忠誠度翻三倍。玩家每進入新時代時獲得該時代的 [ICON_TechBoosted] 尤里卡與 [ICON_CivicBoosted] 天啟各四個。古典時代所選的著力點永久生效。本國建立的城市所有區域+1 [ICON_Culture] 文化，首都區域額外+1 [ICON_Culture] 文化。</Text>
+		</Row>
+
+        <Row Tag="LOC_BUILDING_ROOFTOP_gkls621_NAME" Language="zh_Hant_HK">
+			<Text>天台</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_ROOFTOP_gkls621_DESCRIPTION" Language="zh_Hant_HK">
+			<Text>Afterglow特色建築，取代圖書館，造價更低。不會被自然災害掠奪，永久揭示周圍十環單元格的視野。額外+2 [ICON_Culture] 文化，+1 [ICON_GreatMusician] 大音樂家點數，且自建成或最近一次修復後每經一個時代+2 [ICON_Culture] 文化。為本城駐軍+6 [ICON_Strength] 戰鬥力，所在城市執行遠程攻擊時+10 [ICON_Strength] 戰鬥力。</Text>
+		</Row>
+
+		<Row Tag="LOC_UNIT_FELLOW_GANG_gkls621_NAME" Language="zh_Hant_HK">
+			<Text>老友兵團</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_FELLOW_GANG_gkls621_DESCRIPTION" Language="zh_Hant_HK">
+			<Text>Afterglow特色單位，取代槍兵，解鎖於「灌溉」，造價更低，但基礎 [ICON_Strength] 戰鬥力與 [ICON_Movement] 移動力更高，且無視近戰單位對於抗騎兵單位的 [ICON_Strength] 戰鬥力加成。每與一個老友兵團相鄰則+4 [ICON_Strength] 戰鬥力，攻擊區域防禦時+10 [ICON_Strength] 戰鬥力。在友好領土內+2 [ICON_Movement] 移動力。</Text>
+		</Row>
+    </LocalizedText>
+</GameData>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+        <Row Tag="LOC_LEADER_HIMARI_gkls621_NAME" Language="zh_Hant_HK">
+			<Text>上原緋瑪麗</Text>
+		</Row>
+
+		<Row Tag="LOC_TRAIT_LEADER_HIMARI_gkls621_NAME" Language="zh_Hant_HK">
+			<Text>瘦身計劃</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_HIMARI_gkls621_DESCRIPTION" Language="zh_Hant_HK">
+			<Text>建成學院、劇院廣場、工業區後城市+1 [ICON_Citizen] 人口。農場、牧場、露營地為劇院廣場提供標準相鄰加成。城市每減少一個 [ICON_Citizen] 人口，該城市工業區所有相鄰加成+100%。贏得緊急事件後獲得一位 [ICON_GreatEngineer] 大工程師，取得前50%的成績則獲得50 [ICON_GreatEngineer] 大工程師點數。遊戲內存在緋瑪麗時，將開展特殊计分競賽「喊AAO」與「SNS大戰」。[NEWLINE]（啟用「全新相鄰加成」時）緋瑪麗每激活一次 [ICON_GreatEngineer] 大工程師，全國工業區所有產出+2。</Text>
+        </Row>
+        <Row Tag="LOC_IMPROVEMENT_SUNNY_DOLL_gkls621_NAME" Language="zh_Hant_HK">
+			<Text>護身符</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_SUNNY_DOLL_gkls621_DESCRIPTION" Language="zh_Hant_HK">
+			<Text>緋瑪麗為領袖時的特色改良，解鎖於「國家勞動力」。+1 [ICON_Production] 生產力，+1 [ICON_Faith] 信仰，+1 [ICON_Housing] 住房。為劇院廣場、學院提供少量相鄰加成，為工業區提供標準相鄰加成。相鄰的劇院廣場、學院、工業區提供+2 [ICON_Faith] 信仰，其中學院額外提供+1 [ICON_Science] 科技，劇院廣場提供+1 [ICON_Culture] 文化，工業區提供+2 [ICON_Production] 生產力。解鎖「飛行」後 [ICON_Faith] 信仰值加成也提供 [ICON_Tourism] 旅遊業績。</Text>
+		</Row>
+    </LocalizedText>
+</GameData>

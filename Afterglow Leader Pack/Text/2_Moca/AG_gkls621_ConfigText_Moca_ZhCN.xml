@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+        <Row Tag="LOC_LEADER_MOCA_gkls621_NAME" Language="zh_Hans_CN">
+			<Text>青叶摩卡</Text>
+		</Row>
+
+		<Row Tag="LOC_TRAIT_LEADER_MOCA_gkls621_NAME" Language="zh_Hans_CN">
+			<Text>Slow Hand</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_MOCA_gkls621_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>建立首都后获得一个特色战斗 [ICON_GreatPerson] 伟人“巴巴恩波神”，并可于其死亡时进行项目“拜托巴巴恩波神”使其复活。可以 [ICON_Faith] 信仰值购买市政广场与外交区建筑。与市政广场或外交区相邻的单元格+2 [ICON_Faith] 信仰值；同时相邻加成资源则额外+5 [ICON_Faith] 信仰值。建成市政广场/外交区后，建造者可在每座城市修建一座相应区域。用 [ICON_Faith] 信仰值招募伟人的花费-25%。首次招募某类 [ICON_GreatPerson] 伟人时额外获得一个同类 [ICON_GreatPerson] 伟人。</Text>
+        </Row>
+        <Row Tag="LOC_UNIT_BABANBO_gkls621_NAME" Language="zh_Hans_CN">
+			<Text>巴巴恩波神</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_BABANBO_gkls621_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>青叶摩卡的特色近战 [ICON_GreatPerson] 伟人单位，拥有独特升级树，自带一次初始 [ICON_Promotion] 免费升级。无视控制区以及地形、地貌、河流对 [ICON_Movement] 移动力的减益。每招募过一种 [ICON_GreatPerson] 伟人+6 [ICON_Strength] 战斗力。三环内己方单位+100%经验获取。死亡后在本国首都生成一个巴巴恩波神像（可随宫殿迁移），并可由“拜托巴巴恩波神”复活。</Text>
+		</Row>
+    </LocalizedText>
+</GameData>

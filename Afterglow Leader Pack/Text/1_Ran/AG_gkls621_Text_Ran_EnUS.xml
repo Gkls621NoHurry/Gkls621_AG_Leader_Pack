@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+        <Row Tag="LOC_AGENDA_RAN_gkls621_NAME" Language="en_US">
+			<Text>Lonesome Flower Art</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_RAN_gkls621_DESCRIPTION" Language="en_US">
+			<Text>Never signs humiliating treaties. Likes civilizations that do not explore the map actively but have high [ICON_Culture] Culture output. Dislikes civilizations that are active in exploration but have low [ICON_Culture] Culture output.</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_INFO_LEADER_RAN_gkls621" Language="en_US">
+			<Text>Calm down, Ran Mitake. The path of life isn't that narrow; use your strength and wisdom to broaden the possibilities. The daily sunset, with its fading red hue, can symbolize both routine and the passage of time – counting the moments until you can stand proudly on the rooftop, making the world remember your red streak of pride. In times past, you have proven countless times that victory stems from rebellion loyal to oneself.</Text>
+		</Row>
+        
+        <Row Tag="LOC_ABILITY_RAN_WEARINESS_COMBAT_gkls621_DESCRIPTION" Language="en_US">
+			<Text>Gains [ICON_Strength] Combat Strength equal to half the total Amenity loss from War Weariness suffered by all your cities.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_RAN_DOUBLE_FLANKING_gkls621_DESCRIPTION" Language="en_US">
+			<Text>Doubles the [ICON_Strength] Combat Strength bonus from Flanking.</Text>
+		</Row>
+        <Row Tag="LOC_ABILITY_RAN_DOUBLE_SUPPORT_gkls621_DESCRIPTION" Language="en_US">
+			<Text>Doubles the [ICON_Strength] Combat Strength bonus from Support.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_RAN_QUADED_FLANKING_gkls621_DESCRIPTION" Language="en_US">
+			<Text>Quadruples the [ICON_Strength] Combat Strength bonus from Flanking.</Text>
+		</Row>
+        <Row Tag="LOC_ABILITY_RAN_QUADED_SUPPORT_gkls621_DESCRIPTION" Language="en_US">
+			<Text>Quadruples the [ICON_Strength] Combat Strength bonus from Support.</Text>
+		</Row>
+		<Row Tag="LOC_RAN_WAR_WEARINESS_PROPERTY_gkls621" Language="en_US">
+			<Text>National War Weariness + {Property} [ICON_Strength] Combat Strength.</Text>
+		</Row>
+
+		<!--Civilopedia contents-->
+		<Row Tag="LOC_LEADER_RAN_gkls621_QUOTE" Language="en_US">
+			<Text>The same as always.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_RAN_gkls621_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>The lead vocalist and rhythm guitarist of Afterglow, known for her signature red streak of hair beside her forehead. Junior high school class reassignments separated Ran from her four friends, leading her to often skip class to write poetry on the school rooftop, where Moca discovered her. Later, to find something they could all do together, the five formed Afterglow; it was after this that Ran started growing out her red streak.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_RAN_gkls621_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>Strong-willed and hates losing. Although she appears solitary and resilient, she is actually quite afraid of loneliness. While her phone contact list might only fill half a screen, Ran deeply values her long-time close family and friends, especially the four childhood friends she formed the band with.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_RAN_gkls621_CHAPTER_HISTORY_PARA_3" Language="en_US">
+			<Text>Ran was born into a family with a century-old history in Ikebana (flower arrangement). As the only child, she bears the responsibility of inheriting the family business. The conflict between her Ikebana duties and band activities runs throughout her life. Initially, her father opposed her forming a band, and later, her band career fluctuated due to her Ikebana commitments.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_RAN_gkls621_CHAPTER_HISTORY_PARA_4" Language="en_US">
+			<Text>Ran and Yukina of Roselia constitute the first "Master Derby" in BanG Dream! history. Both competitive and persistent, the two have formed a healthy rivalry, producing songs such as "Kyouen Red×Violet"(Banquet of Red×Violet).</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_RAN_gkls621_CHAPTER_HISTORY_PARA_5" Language="en_US">
+			<Text>(Compiled from Moegirlpedia)</Text>
+		</Row>
+
+		<Row Tag="LOC_PEDIA_DISTRICTS_PAGE_DISTRICT_IKEBANA_FAMILY_gkls621_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Ikebana, the art of flower arrangement, specifically refers to Japanese schools of this art. The materials used in Japanese Ikebana are freely chosen, encompassing not only freshly cut branches, leaves, fruits, seeds—and flowers—but also dried plants, and even glass, metal, and plastic objects can be elements in the composition. Initially serving religion and the aristocracy, Ikebana has now entered the artistic lives of the general public.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_DISTRICTS_PAGE_DISTRICT_IKEBANA_FAMILY_gkls621_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>The Ikebana tradition Ran inherits seems to lean towards traditional schools, requiring the wearing of a kimono to complete the arrangements. It is reported that she has now attained an "advanced qualification".</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_RAN_gkls621_AGENDA_LOW_EXPLORATION_HIGH_CULTURE" Language="en_US">
+			<Text>"Quiet on the outside, but with a burning passion inside"... It suits you quite well, more so than describing me, I suppose.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_RAN_gkls621_AGENDA_HIGH_EXPLORATION_LOW_CULTURE" Language="en_US">
+			<Text>You're the one playing house. You seem busy with many things, but it's all child's play... Anyway, leave me alone!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_RAN_gkls621_AGENDA_LOW_EXPLORATION_HIGH_CULTURE" Language="en_US">
+			<Text>She respects civilizations that maintain high culture despite lagging in exploration.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_RAN_gkls621_AGENDA_HIGH_EXPLORATION_LOW_CULTURE" Language="en_US">
+			<Text>She dislikes civilizations that flaunt exploration but lack ideal cultural output.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_RAN_gkls621_ANY" Language="en_US">
+			<Text>Uh... thanks.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_RAN_gkls621_ANY" Language="en_US">
+			<Text>Enough... I don't want to talk to you.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_RAN_gkls621_ANY" Language="en_US">
+			<Text>Well... I, I'm not good at expressing myself... but, anyway, it feels like the number of comrades has increased.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_RAN_gkls621_ANY" Language="en_US">
+			<Text>Uh... thanks.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_RAN_gkls621_ANY" Language="en_US">
+			<Text>Enough... I don't want to talk to you.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_RAN_gkls621_ANY" Language="en_US">
+			<Text>You have no right to speak to me like that! Our war begins now, right now... we will settle this!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_RAN_gkls621_ANY" Language="en_US">
+			<Text>What about those words of yours, so what? Our war begins now, right now... we will settle this!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_RAN_gkls621_ANY" Language="en_US">
+			<Text>Fine... you've defeated me... I have only one thing to say: Don't underestimate Moca and the others...</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_RAN_gkls621_ANY" Language="en_US">
+			<Text>Fine... you've defeated me... I have only one thing to say: Don't underestimate Moca and the others...</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_RAN_gkls621_ANY" Language="en_US">
+			<Text>W-What are you laughing at... Huh, you think my blushing is "cute"...?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_RAN_gkls621_ANY" Language="en_US">
+			<Text>You're so noisy...</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_RAN_gkls621_ANY" Language="en_US">
+			<Text>…………Afterglow's latest record, my Ikebana practice work. Okay, that's all.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_RAN_gkls621_ANY" Language="en_US">
+			<Text>You're really shameless...</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_RAN_gkls621_ANY" Language="en_US">
+			<Text>You're really shameless...</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_RAN_gkls621_ANY" Language="en_US">
+			<Text>Hello. ...Self-introduction? I'm Ran Mitake, the lead vocalist and guitarist of the band Afterglow. ...Is that enough?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_RAN_gkls621_ANY" Language="en_US">
+			<Text>Well then, I should be going now. They're probably waiting for me. ...What do you mean "who are they"...</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_RAN_gkls621_ANY" Language="en_US">
+			<Text>But, that thing you just told me about, um... I'd like to know more.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_RAN_gkls621_ANY" Language="en_US">
+			<Text>What am I saying...? Ha... It's about us supporting each other! ..."Each other"...</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_RAN_gkls621_ANY" Language="en_US">
+			<Text>Ah, hello.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_RAN_gkls621_ANY" Language="en_US">
+			<Text>This... N-No. It's nothing.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_RAN_gkls621_ANY" Language="en_US">
+			<Text>Damn it...</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_RAN_gkls621_ANY" Language="en_US">
+			<Text>What's different from usual is this rabble of yours... What's the same as usual is me.</Text>
+		</Row>
+    </LocalizedText>
+</GameData>

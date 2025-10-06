@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<Row Tag="LOC_ABILITY_FELLOW_GANG_gkls621_NAME" Language="en_US">
+			<Text>Fellow Gang</Text>
+		</Row>
+        <Row Tag="LOC_ABILITY_FELLOW_GANG_gkls621_DESCRIPTION" Language="en_US">
+			<Text>Ignores the [ICON_Strength] Combat Strength bonus melee units have against anti-cavalry units. +4 [ICON_Strength] Combat Strength for each adjacent Fellow Gang unit, +10 [ICON_Strength] Combat Strength when attacking district defenses. +2 [ICON_Movement] Movement in friendly territory.</Text>
+		</Row>
+        <Row Tag="LOC_FELLOW_GANG_ADJACENCY_COMBAT_gkls621" Language="en_US">
+			<Text>+{CalculatedAmount} [ICON_Strength] Combat Strength from adjacent Fellow Gangs.</Text>
+		</Row>
+		<Row Tag="LOC_FELLOW_GANG_VS_MELEE_gkls621" Language="en_US">
+			<Text>+10 [ICON_Strength] Combat Strength vs Melee units.</Text>
+		</Row>
+        <Row Tag="LOC_FELLOW_GANG_VS_DISTRICT_gkls621" Language="en_US">
+			<Text>+10 [ICON_Strength] Combat Strength when attacking district defenses.</Text>
+		</Row>
+		<Row Tag="LOC_ROOFTOP_GARRISON_STRENGTH_gkls621" Language="en_US">
+			<Text>Rooftop provides +6 [ICON_Strength] Combat Strength to garrison.</Text>
+		</Row>
+        <Row Tag="LOC_ROOFTOP_RANGED_STRIKE_gkls621" Language="en_US">
+			<Text>Rooftop provides +10 [ICON_Strength] Combat Strength to city Ranged Attacks.</Text>
+		</Row>
+
+		<Row Tag="LOC_CIVILIZATION_AG_gkls621_CITY_1" Language="en_US">
+			<Text>Haneoka Girls' School Rooftop</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_AG_gkls621_CITY_2" Language="en_US">
+			<Text>Aoba-cho</Text>
+		</Row>
+        <Row Tag="LOC_CIVILIZATION_AG_gkls621_CITY_3" Language="en_US">
+			<Text>Yoyogi-Uehara</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_AG_gkls621_CITY_4" Language="en_US">
+			<Text>Udagawa-cho</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_AG_gkls621_CITY_5" Language="en_US">
+			<Text>Hazawa-cho</Text>
+		</Row>
+        <Row Tag="LOC_CIVILIZATION_AG_gkls621_CITY_6" Language="en_US">
+			<Text>Mitake-cho</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_AG_gkls621_CITY_7" Language="en_US">
+			<Text>Ikebana Gathering</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_AG_gkls621_CITY_8" Language="en_US">
+			<Text>Convenience Store</Text>
+		</Row>
+        <Row Tag="LOC_CIVILIZATION_AG_gkls621_CITY_9" Language="en_US">
+			<Text>Sakura Courtyard</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_AG_gkls621_CITY_10" Language="en_US">
+			<Text>Ramen Saburo</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_AG_gkls621_CITY_11" Language="en_US">
+			<Text>Hazawa Cafe</Text>
+		</Row>
+        <Row Tag="LOC_CIVILIZATION_AG_gkls621_CITY_12" Language="en_US">
+			<Text>Ungaruhoganga Tribe</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_AG_gkls621_CITY_13" Language="en_US">
+			<Text>Taiko Team Training Ground</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_AG_gkls621_CITY_14" Language="en_US">
+			<Text>Haneoka Student Council</Text>
+		</Row>
+        <Row Tag="LOC_CIVILIZATION_AG_gkls621_CITY_15" Language="en_US">
+			<Text>Ginga Ramen</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_AG_gkls621_CITY_16" Language="en_US">
+			<Text>Lake Shinji</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_AG_gkls621_CITY_17" Language="en_US">
+			<Text>Parent Beach</Text>
+		</Row>
+        <Row Tag="LOC_CIVILIZATION_AG_gkls621_CITY_18" Language="en_US">
+			<Text>Dojima</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_AG_gkls621_CITY_19" Language="en_US">
+			<Text>Koganezaki</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_AG_gkls621_CITY_20" Language="en_US">
+			<Text>Yuhigaura</Text>
+		</Row>
+
+		<Row Tag="LOC_CITIZEN_AG_gkls621_1" Language="en_US">
+			<Text>Ran Mitake</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_AG_gkls621_2" Language="en_US">
+			<Text>Moca Aoba</Text>
+		</Row>
+        <Row Tag="LOC_CITIZEN_AG_gkls621_3" Language="en_US">
+			<Text>Himari Uehara</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_AG_gkls621_4" Language="en_US">
+			<Text>Tomoe Udagawa</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_AG_gkls621_5" Language="en_US">
+			<Text>Tsugumi Hazawa</Text>
+		</Row>
+        <Row Tag="LOC_CITIZEN_AG_gkls621_6" Language="en_US">
+			<Text>Ran's Father</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_AG_gkls621_7" Language="en_US">
+			<Text>Yone</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_AG_gkls621_8" Language="en_US">
+			<Text>Ume</Text>
+		</Row>
+        <Row Tag="LOC_CITIZEN_AG_gkls621_9" Language="en_US">
+			<Text>Ruu</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_AG_gkls621_10" Language="en_US">
+			<Text>Babanbo-sama</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_AG_gkls621_11" Language="en_US">
+			<Text>Band Talisman</Text>
+		</Row>
+        <Row Tag="LOC_CITIZEN_AG_gkls621_12" Language="en_US">
+			<Text>Yukina Minato</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_AG_gkls621_13" Language="en_US">
+			<Text>Lisa Imai</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_AG_gkls621_14" Language="en_US">
+			<Text>Kaoru Seta</Text>
+		</Row>
+        <Row Tag="LOC_CITIZEN_AG_gkls621_15" Language="en_US">
+			<Text>Ako Udagawa</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_AG_gkls621_16" Language="en_US">
+			<Text>Hina Hikawa</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_AG_gkls621_17" Language="en_US">
+			<Text>Sayoa Hikawa</Text>
+		</Row>
+        <Row Tag="LOC_CITIZEN_AG_gkls621_18" Language="en_US">
+			<Text>Ayane Sakura</Text>
+		</Row>
+
+		<!--Civilopedia contents-->
+		<Row Tag="LOC_CIVINFO_AG_gkls621_LOCATION" Language="en_US">
+			<Text>Various ordinary corners of the BanG Dream! universe, especially Haneoka Girls' School</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_AG_gkls621_SIZE" Language="en_US">
+			<Text>The usual size[NEWLINE](Itsumodoori~)</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_AG_gkls621_POPULATION" Language="en_US">
+			<Text>5 people (Long-term friendships across the timeline not included)</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_AG_gkls621_CAPITAL" Language="en_US">
+			<Text>The rooftop of Haneoka Girls' School, where the band members watch sunsets and practice together</Text>
+		</Row>
+
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_AG_gkls621_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>A girls band formed by five childhood friends. When they entered high school, Ran was placed in a different class. To keep everyone together, they formed a band. In high school, they enjoy the pure joy brought by the band, practicing in the studio after school and participating in live concerts. The members have a very good relationship and rarely argue. Their performances, while slightly rough around the edges, are powerful in both instrumentation and vocals, making them very popular. On various stages, they spend their "usual" days through music.</Text>
+		</Row>
+
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_FELLOW_GANG_gkls621_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Just by hearing each other's music, we can tell what the other is thinking. —Ran Mitake[NEWLINE][NEWLINE]Our music? To describe it in one word, it's "emotional," I guess~ ...Don't get it? You'll understand if you listen to our music~ —Moca Aoba[NEWLINE][NEWLINE]Even though everyone has their own personality, when our sounds come together, it creates an incredible feeling! —Himari Uehara[NEWLINE][NEWLINE]They all have strong personalities, but each has their own merits. When each of our sounds mix together, and 'sounds' become 'music'... I really love that moment! —Tomoe Udagawa[NEWLINE][NEWLINE]All the members are so cool, really amazing... In short, it's a wonderful band! —Tsugumi Hazawa</Text>
+		</Row>
+
+		<Row Tag="LOC_PEDIA_BUILDINGS_PAGE_BUILDING_ROOFTOP_gkls621_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>A rooftop is an open-air platform on the top of a building, used for ventilation, gardening, etc. The dubious "Hanging Gardens," one of the Seven Wonders of the Ancient World, had structures fitting the definition of a rooftop; but fine dining and jade are not precious—the "rooftop" enjoyed by Afterglow is clearly much more modest: the roof of Haneoka Girls' School. In fact, as early as their junior high days, the five members of Afterglow had developed the habit of watching the sunset on rooftops; the rooftop at Haneoka is merely the current vessel for this daily routine. The constant daily life, the steadfastness of "unchanging," comes from human bonds.</Text>
+		</Row>
+    </LocalizedText>
+</GameData>

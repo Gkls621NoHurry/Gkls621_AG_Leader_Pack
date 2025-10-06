@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+        <Row Tag="LOC_AGENDA_TOMOE_gkls621_NAME" Language="zh_Hans_CN">
+			<Text>守护到底</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_TOMOE_gkls621_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>会尽力清除蛮族营地。喜欢清除蛮族营地的文明，讨厌无视蛮族营地的文明。</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_INFO_LEADER_TOMOE_gkls621" Language="zh_Hans_CN">
+			<Text>宇田川巴，英勇出击是您伸张正义的头号战略，也是您交友的头号战略。正所谓“不打不相识”，其利断金的友情，自然需要由喷薄的真诚淬炼，更经得起逆耳忠言的检验。赤诚的缘分，好似心爱的拉面，一碗一碗续不尽，各碗赏味各新鲜，碗碗垒叠坚如铁。</Text>
+		</Row>
+        
+		<!--Civilopedia contents-->
+		<Row Tag="LOC_LEADER_TOMOE_gkls621_QUOTE" Language="zh_Hans_CN">
+			<Text>Soiya！[NEWLINE]（ソイヤ！）</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_TOMOE_gkls621_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>Afterglow的鼓手，豪爽干脆的强硬派，乐于助人。尽管看上去有点像不良少女，可内心相当温柔；偶尔亦有冲动的时候，会出于爱骂人，不过下一秒就会意识到错误并反省道歉。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_TOMOE_gkls621_CHAPTER_HISTORY_PARA_2" Language="zh_Hans_CN">
+			<Text>同商店街的大人们很熟，有祭典活动时会去打和太鼓，也作为商店街太鼓队的代表入选了“商店街青年部”。升上高三之后，开始在银河拉面馆和Masking一起打工，并开始尝试考取机车驾照。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_TOMOE_gkls621_CHAPTER_HISTORY_PARA_3" Language="zh_Hans_CN">
+			<Text>和妹妹亚子关系非常好（好到一起洗澡），是妹妹的偶像，也是她口中的“世界最强鼓手”。因同为阿姊，故能和本与妹妹关系欠佳的纱夜交流做姐姐的经验。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_TOMOE_gkls621_CHAPTER_HISTORY_PARA_4" Language="zh_Hans_CN">
+			<Text>酷爱拉面，特别是猪骨酱油拉面。似乎对周边各种神奇面店了如指掌，能够轮番吃不重样，各自神奇之处更不重样。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_TOMOE_gkls621_CHAPTER_HISTORY_PARA_5" Language="zh_Hans_CN">
+			<Text>（整理自萌娘百科）</Text>
+		</Row>
+
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_TAIKO_TEAM_gkls621_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>和太鼓，顾名思义，即日本用的大鼓。一如其他国家的锣鼓，它也常用于祭典、盛会之中。近年来，街机音游《太鼓达人》也收获了可观人气。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_TAIKO_TEAM_gkls621_CHAPTER_HISTORY_PARA_2" Language="zh_Hans_CN">
+			<Text>宇田川巴代表着商店街的太鼓队，其口头禅“Soiya！”正是会有太鼓队出席之祭典中加油欢呼的声音。另外，巴也会玩太鼓街机，水平亦不凡（堪堪不敌概念神麻弥）。</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_TOMOE_gkls621_AGENDA_CLEARS_BABARIAN_CAMPS" Language="zh_Hans_CN">
+			<Text>哈哈，谢谢你一直以来的清扫！多亏了你每天为我们清扫，我们才能拥有一个舒心的环境。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_TOMOE_gkls621_AGENDA_IGNORES_BABARIAN_CAMPS" Language="zh_Hans_CN">
+			<Text>“跟我们无关”……你怎么能这么认为……！？</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_TOMOE_gkls621_AGENDA_CLEARS_BABARIAN_CAMPS" Language="zh_Hans_CN">
+			<Text>她喜欢大力打击蛮族营地的文明。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_TOMOE_gkls621_AGENDA_IGNORES_BABARIAN_CAMPS" Language="zh_Hans_CN">
+			<Text>她讨厌放任蛮族扎寨横行的文明。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_TOMOE_gkls621_ANY" Language="zh_Hans_CN">
+			<Text>这就答应下来真是帮大忙了。谢啦！</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_TOMOE_gkls621_ANY" Language="zh_Hans_CN">
+			<Text>……你这毫无干劲的说法算怎么回事……</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_TOMOE_gkls621_ANY" Language="zh_Hans_CN">
+			<Text>就用力敲鼓一样，发出响声，与大家融为一体……能体验到这个是最有趣的了，连自己都更有干劲了！来吧！！</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_TOMOE_gkls621_ANY" Language="zh_Hans_CN">
+			<Text>这就答应下来真是帮大忙了。谢啦！</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_TOMOE_gkls621_ANY" Language="zh_Hans_CN">
+			<Text>……你这毫无干劲的说法算怎么回事……</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_TOMOE_gkls621_ANY" Language="zh_Hans_CN">
+			<Text>任何人都没有资格挑我们的毛病，如果有人挑毛病，不管是谁，我们都会战斗到底！</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_TOMOE_gkls621_ANY" Language="zh_Hans_CN">
+			<Text>任何人都没有资格挑我们的毛病，如果有人挑毛病，不管是谁，我们都会战斗到底！</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_TOMOE_gkls621_ANY" Language="zh_Hans_CN">
+			<Text>你可以说我，怎么盖棺定论都随你便……但我绝不允许你看扁Afterglow！</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_TOMOE_gkls621_ANY" Language="zh_Hans_CN">
+			<Text>你可以说我，怎么盖棺定论都随你便……但我绝不允许你看扁Afterglow！</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_TOMOE_gkls621_ANY" Language="zh_Hans_CN">
+			<Text>嗨呀，谢谢你的礼物！以后也要拼命支持我们哟！~</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_TOMOE_gkls621_ANY" Language="zh_Hans_CN">
+			<Text>对不起。我去冷静一下，你们先回去吧。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_TOMOE_gkls621_ANY" Language="zh_Hans_CN">
+			<Text>哈哈，我们特地绘制了一份美食地图：Afterglow像往常一样路过的每一个街区里，每一家拉面店都标注出来加上点评了哦！如果想吃奶油拉面、轻食拉面之类的，绝对绝对，不要错过！</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_TOMOE_gkls621_ANY" Language="zh_Hans_CN">
+			<Text>你要说的就是这个啊……[NEWLINE]——没事啦，别管那种人~我们做自己想做的事吧~</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_TOMOE_gkls621_ANY" Language="zh_Hans_CN">
+			<Text>你要说的就是这个啊……[NEWLINE]——没事啦，别管那种人~我们做自己想做的事吧~</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_TOMOE_gkls621_ANY" Language="zh_Hans_CN">
+			<Text>巴。宇田川巴。在名叫Afterglow的乐队里当鼓手。请……多指教。哦，我们的音乐是最棒的，一定得多听听哦！</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_TOMOE_gkls621_ANY" Language="zh_Hans_CN">
+			<Text>来吧，见识见识我们的Afterglow！我们无论何时都在呈现出最好的音乐！</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_TOMOE_gkls621_ANY" Language="zh_Hans_CN">
+			<Text>嘿呀，虽然有点不好意思……但，我想试试贵国一家锅烧乌冬面，那是他们店主推荐的！</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_TOMOE_gkls621_ANY" Language="zh_Hans_CN">
+			<Text>我们会成为更好的乐队的……我一直坚信着。所以之后，也请好好守护我们啊！</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_TOMOE_gkls621_ANY" Language="zh_Hans_CN">
+			<Text>哦吼，真是巧哇！哈哈！</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_TOMOE_gkls621_ANY" Language="zh_Hans_CN">
+			<Text>梦想就跟大碗拉面是一样的！只要一直吃下去，总是能吃完的；同样道理，只要努力的话，一定能抵达目标！</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_TOMOE_gkls621_ANY" Language="zh_Hans_CN">
+			<Text>……我要和你绝交！</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_TOMOE_gkls621_ANY" Language="zh_Hans_CN">
+			<Text>没想到，你这么不讲道理！“属于我们的特别的地方会消失”？太可笑了……不管发生什么，它都会继续辉煌下去……</Text>
+		</Row>
+    </LocalizedText>
+</GameData>

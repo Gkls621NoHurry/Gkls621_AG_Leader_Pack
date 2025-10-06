@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<Row Tag="LOC_ABILITY_FELLOW_GANG_gkls621_NAME" Language="zh_Hans_CN">
+			<Text>老友兵团</Text>
+		</Row>
+        <Row Tag="LOC_ABILITY_FELLOW_GANG_gkls621_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>无视近战单位对于抗骑兵单位的 [ICON_Strength] 战斗力加成。每与一个老友兵团相邻则+4 [ICON_Strength] 战斗力，攻击区域防御时+10 [ICON_Strength] 战斗力。在友好领土内+2 [ICON_Movement] 移动力。</Text>
+		</Row>
+        <Row Tag="LOC_FELLOW_GANG_ADJACENCY_COMBAT_gkls621" Language="zh_Hans_CN">
+			<Text>相邻的老友兵团提供+{CalculatedAmount} [ICON_Strength] 战斗力。</Text>
+		</Row>
+		<Row Tag="LOC_FELLOW_GANG_VS_MELEE_gkls621" Language="zh_Hans_CN">
+			<Text>对抗近战单位+10 [ICON_Strength] 战斗力。</Text>
+		</Row>
+        <Row Tag="LOC_FELLOW_GANG_VS_DISTRICT_gkls621" Language="zh_Hans_CN">
+			<Text>攻击区域防御时+10 [ICON_Strength] 战斗力。</Text>
+		</Row>
+		<Row Tag="LOC_ROOFTOP_GARRISON_STRENGTH_gkls621" Language="zh_Hans_CN">
+			<Text>天台为驻军提供+6 [ICON_Strength] 战斗力。</Text>
+		</Row>
+        <Row Tag="LOC_ROOFTOP_RANGED_STRIKE_gkls621" Language="zh_Hans_CN">
+			<Text>天台为区域远程攻击提供+10 [ICON_Strength] 战斗力。</Text>
+		</Row>
+
+		<Row Tag="LOC_CIVILIZATION_AG_gkls621_CITY_1" Language="zh_Hans_CN">
+			<Text>羽丘女子学园屋顶</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_AG_gkls621_CITY_2" Language="zh_Hans_CN">
+			<Text>青叶町</Text>
+		</Row>
+        <Row Tag="LOC_CIVILIZATION_AG_gkls621_CITY_3" Language="zh_Hans_CN">
+			<Text>代代木上原</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_AG_gkls621_CITY_4" Language="zh_Hans_CN">
+			<Text>宇田川町</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_AG_gkls621_CITY_5" Language="zh_Hans_CN">
+			<Text>羽泽町</Text>
+		</Row>
+        <Row Tag="LOC_CIVILIZATION_AG_gkls621_CITY_6" Language="zh_Hans_CN">
+			<Text>美竹町</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_AG_gkls621_CITY_7" Language="zh_Hans_CN">
+			<Text>花道集会</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_AG_gkls621_CITY_8" Language="zh_Hans_CN">
+			<Text>便利店</Text>
+		</Row>
+        <Row Tag="LOC_CIVILIZATION_AG_gkls621_CITY_9" Language="zh_Hans_CN">
+			<Text>樱花中庭</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_AG_gkls621_CITY_10" Language="zh_Hans_CN">
+			<Text>拉面三郎</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_AG_gkls621_CITY_11" Language="zh_Hans_CN">
+			<Text>羽泽咖啡店</Text>
+		</Row>
+        <Row Tag="LOC_CIVILIZATION_AG_gkls621_CITY_12" Language="zh_Hans_CN">
+			<Text>乌恩加鲁霍冈加部落</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_AG_gkls621_CITY_13" Language="zh_Hans_CN">
+			<Text>太鼓队训练地</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_AG_gkls621_CITY_14" Language="zh_Hans_CN">
+			<Text>羽丘学生会</Text>
+		</Row>
+        <Row Tag="LOC_CIVILIZATION_AG_gkls621_CITY_15" Language="zh_Hans_CN">
+			<Text>银河拉面店</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_AG_gkls621_CITY_16" Language="zh_Hans_CN">
+			<Text>宍道湖</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_AG_gkls621_CITY_17" Language="zh_Hans_CN">
+			<Text>父母之滨</Text>
+		</Row>
+        <Row Tag="LOC_CIVILIZATION_AG_gkls621_CITY_18" Language="zh_Hans_CN">
+			<Text>堂岛</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_AG_gkls621_CITY_19" Language="zh_Hans_CN">
+			<Text>黄金崎</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_AG_gkls621_CITY_20" Language="zh_Hans_CN">
+			<Text>夕日浦</Text>
+		</Row>
+
+		<Row Tag="LOC_CITIZEN_AG_gkls621_1" Language="zh_Hans_CN">
+			<Text>美竹兰</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_AG_gkls621_2" Language="zh_Hans_CN">
+			<Text>青叶摩卡</Text>
+		</Row>
+        <Row Tag="LOC_CITIZEN_AG_gkls621_3" Language="zh_Hans_CN">
+			<Text>上原绯玛丽</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_AG_gkls621_4" Language="zh_Hans_CN">
+			<Text>宇田川巴</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_AG_gkls621_5" Language="zh_Hans_CN">
+			<Text>羽泽鸫</Text>
+		</Row>
+        <Row Tag="LOC_CITIZEN_AG_gkls621_6" Language="zh_Hans_CN">
+			<Text>兰父</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_AG_gkls621_7" Language="zh_Hans_CN">
+			<Text>世音</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_AG_gkls621_8" Language="zh_Hans_CN">
+			<Text>梅</Text>
+		</Row>
+        <Row Tag="LOC_CITIZEN_AG_gkls621_9" Language="zh_Hans_CN">
+			<Text>留</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_AG_gkls621_10" Language="zh_Hans_CN">
+			<Text>巴巴恩波神</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_AG_gkls621_11" Language="zh_Hans_CN">
+			<Text>乐队护身符</Text>
+		</Row>
+        <Row Tag="LOC_CITIZEN_AG_gkls621_12" Language="zh_Hans_CN">
+			<Text>凑友希那</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_AG_gkls621_13" Language="zh_Hans_CN">
+			<Text>今井莉莎</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_AG_gkls621_14" Language="zh_Hans_CN">
+			<Text>濑田薰</Text>
+		</Row>
+        <Row Tag="LOC_CITIZEN_AG_gkls621_15" Language="zh_Hans_CN">
+			<Text>宇田川亚子</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_AG_gkls621_16" Language="zh_Hans_CN">
+			<Text>冰川日菜</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_AG_gkls621_17" Language="zh_Hans_CN">
+			<Text>冰川纱夜</Text>
+		</Row>
+        <Row Tag="LOC_CITIZEN_AG_gkls621_18" Language="zh_Hans_CN">
+			<Text>佐仓绫音</Text>
+		</Row>
+
+		<!--Civilopedia contents-->
+		<Row Tag="LOC_CIVINFO_AG_gkls621_LOCATION" Language="zh_Hans_CN">
+			<Text>邦邦世界观的各个寻常角落，尤其是羽丘女子学园</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_AG_gkls621_SIZE" Language="zh_Hans_CN">
+			<Text>和往常一样的大小[NEWLINE]（いつも通り~）</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_AG_gkls621_POPULATION" Language="zh_Hans_CN">
+			<Text>5人（时间尺度上的漫长友谊未计入）</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_AG_gkls621_CAPITAL" Language="zh_Hans_CN">
+			<Text>羽丘女子学园的天台，乐队成员一道观夕阳、排练之地</Text>
+		</Row>
+
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_AG_gkls621_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>五位青梅竹马组成的少女乐队。当初升学时，兰被分到不同班级。为了能让大家继续聚在一起，她们才组成乐队。在高中，她们享受着乐队带来的纯粹快乐，会在放学后进录音棚练习，还会参加演唱会。成员们的关系非常好，基本不曾吵架。她们的表演虽略显不修边幅，但演奏、歌喉充满力量，因而非常受欢迎。在各种不同的舞台上，她们在音乐中度过“和往常一样”的每一天。</Text>
+		</Row>
+
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_FELLOW_GANG_gkls621_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>只要听到彼此的音乐，就能知道对方在想什么。——美竹兰[NEWLINE][NEWLINE]我们的音乐？用一个词来形容，就是“情绪化”吧~……不明白吗？听过我们的音乐就懂了~——青叶摩卡[NEWLINE][NEWLINE]虽说大家都很有自己的个性，但我们的乐声合在一起，有种不可思议的感觉！——上原绯玛丽[NEWLINE][NEWLINE]虽然她们个性十足，但每个人都有自己的优点。当我们每个人的乐声混合在一起，“声音”变成“音乐”的时候……我特别喜欢那个瞬间！——宇田川巴[NEWLINE][NEWLINE]所有成员都很帅气，特别厉害…… 总之是个很棒的乐队！——羽泽鸫</Text>
+		</Row>
+
+		<Row Tag="LOC_PEDIA_BUILDINGS_PAGE_BUILDING_ROOFTOP_gkls621_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>天台，即设在楼房顶部的露天平台，可作透风、栽花等用。古代七大奇迹中真假难辨的“空中花园”便有符合天台定义的结构；但钟鼓馔玉不足贵，Afterglow享用的“天台”显然质朴得多——羽丘女子学园的屋顶便是了。其实早在初中年代，Afterglow的五小子已养成屋顶观夕景之习惯；而羽丘的天台，只不过是这一日常的现任载体。一直不变的日常，“不变”的定力来自人情。</Text>
+		</Row>
+    </LocalizedText>
+</GameData>

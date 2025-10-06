@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+        <Row Tag="LOC_AGENDA_TOMOE_gkls621_NAME" Language="en_US">
+			<Text>Protect to the End</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_TOMOE_gkls621_DESCRIPTION" Language="en_US">
+			<Text>Will try hard to clear Barbarian Camps. Likes civilizations that clear Barbarian Camps; dislikes civilizations that ignore Barbarian Camps.</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_INFO_LEADER_TOMOE_gkls621" Language="en_US">
+			<Text>Tomoe Udagawa, brave action is your primary strategy for upholding justice, and also your primary strategy for making friends. As the saying goes, "No discord, no concord"—the friendship that cuts through metal naturally requires quenching with gushing sincerity, and can withstand the test of unwelcome truth. Sincere bonds are like beloved ramen, bowl after bowl endlessly continued, each bowl offering a fresh taste, each bowl stacked strong as iron.</Text>
+		</Row>
+        
+		<!--Civilopedia contents-->
+		<Row Tag="LOC_LEADER_TOMOE_gkls621_QUOTE" Language="en_US">
+			<Text>Soiya!</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_TOMOE_gkls621_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>The drummer of Afterglow, a straightforward and strong-willed hardliner who enjoys helping others. Although she may seem a bit like a delinquent, she is actually quite kind-hearted; occasionally impulsive, she might scold out of love, but realizes her mistake the next moment and reflects/apologizes.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_TOMOE_gkls621_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>Very familiar with the adults in the shopping district, plays the wadaiko (Japanese drum) during festival events, and was selected as the representative of the shopping district's taiko team for the "Shopping District Youth Division". After entering her third year of high school, she started working part-time at Ginga Ramen with Masking and began studying for her motorcycle license.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_TOMOE_gkls621_CHAPTER_HISTORY_PARA_3" Language="en_US">
+			<Text>Has a very good relationship with her younger sister Ako (good enough to bathe together), is her sister's idol, and is called the "world's strongest drummer" by her. As fellow older sisters, she can share experiences about being an elder sister with Sayo, who initially had a poor relationship with her own sister.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_TOMOE_gkls621_CHAPTER_HISTORY_PARA_4" Language="en_US">
+			<Text>Loves ramen, especially tonkotsu shoyu ramen. Seems to have an encyclopedic knowledge of all the amazing ramen shops in the area, able to eat at a different one each time, each with its own unique wonders.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_TOMOE_gkls621_CHAPTER_HISTORY_PARA_5" Language="en_US">
+			<Text>(Compiled from Moegirlpedia)</Text>
+		</Row>
+
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_TAIKO_TEAM_gkls621_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Wadaiko, as the name suggests, are large Japanese drums. Like gongs and drums in other countries, they are often used in festivals and grand events. In recent years, the arcade rhythm game "Taiko no Tatsujin" has also gained considerable popularity.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_TAIKO_TEAM_gkls621_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>Tomoe Udagawa represents the shopping district's taiko team; her catchphrase "Soiya!" is the cheering sound heard at festivals where taiko teams perform. Additionally, Tomoe also plays the Taiko arcade game and is quite skilled (just barely losing to the conceptual goddess Mayi).</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_TOMOE_gkls621_AGENDA_CLEARS_BABARIAN_CAMPS" Language="en_US">
+			<Text>Haha, thank you for always cleaning up! Thanks to you cleaning up for us every day, we can have a comfortable environment.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_TOMOE_gkls621_AGENDA_IGNORES_BABARIAN_CAMPS" Language="en_US">
+			<Text>"It's none of our business"... How can you think that...!?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_TOMOE_gkls621_AGENDA_CLEARS_BABARIAN_CAMPS" Language="en_US">
+			<Text>She likes civilizations that actively clear Barbarian Outposts.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_TOMOE_gkls621_AGENDA_IGNORES_BABARIAN_CAMPS" Language="en_US">
+			<Text>She dislikes civilizations that allow Barbarian Outposts to run rampant.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_TOMOE_gkls621_ANY" Language="en_US">
+			<Text>You agreeing so readily is a big help. Thanks!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_TOMOE_gkls621_ANY" Language="en_US">
+			<Text>...What's with this unmotivated way of speaking...</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_TOMOE_gkls621_ANY" Language="en_US">
+			<Text>Just like beating the drum hard, making a sound, becoming one with everyone... Experiencing that is the most fun, it even motivates me more! Come on!!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_TOMOE_gkls621_ANY" Language="en_US">
+			<Text>You agreeing so readily is a big help. Thanks!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_TOMOE_gkls621_ANY" Language="en_US">
+			<Text>...What's with this unmotivated way of speaking...</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_TOMOE_gkls621_ANY" Language="en_US">
+			<Text>No one has the right to find fault with us! If anyone does, no matter who they are, we'll fight to the end!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_TOMOE_gkls621_ANY" Language="en_US">
+			<Text>No one has the right to find fault with us! If anyone does, no matter who they are, we'll fight to the end!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_TOMOE_gkls621_ANY" Language="en_US">
+			<Text>You can say whatever you want about me, judge me however you like... But I absolutely won't allow you to look down on Afterglow!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_TOMOE_gkls621_ANY" Language="en_US">
+			<Text>You can say whatever you want about me, judge me however you like... But I absolutely won't allow you to look down on Afterglow!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_TOMOE_gkls621_ANY" Language="en_US">
+			<Text>Heya, thanks for the gift! Keep supporting us with all your might from now on too!~</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_TOMOE_gkls621_ANY" Language="en_US">
+			<Text>Sorry. I need to cool off, you all go back first.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_TOMOE_gkls621_ANY" Language="en_US">
+			<Text>Haha, we specially made a gourmet map: we've marked and reviewed every ramen shop in every neighborhood that Afterglow passes through as usual! If you want to try cream ramen, light ramen, or anything like that, absolutely, absolutely don't miss it!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_TOMOE_gkls621_ANY" Language="en_US">
+			<Text>So that's what you have to say...[NEWLINE]—It's fine, don't mind people like that~ Let's do what we want to do~</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_TOMOE_gkls621_ANY" Language="en_US">
+			<Text>So that's what you have to say...[NEWLINE]—It's fine, don't mind people like that~ Let's do what we want to do~</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_TOMOE_gkls621_ANY" Language="en_US">
+			<Text>Tomoe. Tomoe Udagawa. I'm the drummer in a band called Afterglow. Pleased... to meet you. Oh, and our music is the best, you've gotta listen to it!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_TOMOE_gkls621_ANY" Language="en_US">
+			<Text>Come on, witness our Afterglow! We always deliver the best music!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_TOMOE_gkls621_ANY" Language="en_US">
+			<Text>Heya, this is a bit embarrassing... but, I'd like to try a nabeyaki udon from a shop in your country that the owner recommended!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_TOMOE_gkls621_ANY" Language="en_US">
+			<Text>We'll become a better band... I've always believed that. So from now on, please keep watching over us!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_TOMOE_gkls621_ANY" Language="en_US">
+			<Text>Oho, what a coincidence! Haha!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_TOMOE_gkls621_ANY" Language="en_US">
+			<Text>Dreams are just like a big bowl of ramen! As long as you keep eating, you'll eventually finish it; similarly, if you work hard, you'll definitely reach your goal!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_TOMOE_gkls621_ANY" Language="en_US">
+			<Text>...I'm cutting ties with you!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_TOMOE_gkls621_ANY" Language="en_US">
+			<Text>I never thought you'd be so unreasonable! "Our special place will disappear"? That's ridiculous... No matter what happens, it will continue to shine...</Text>
+		</Row>
+    </LocalizedText>
+</GameData>

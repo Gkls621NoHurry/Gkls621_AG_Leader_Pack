@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+        <Row Tag="LOC_LEADER_TSUGUMI_gkls621_NAME" Language="zh_Hant_HK">
+			<Text>羽澤鶇</Text>
+		</Row>
+
+		<Row Tag="LOC_TRAIT_LEADER_TSUGUMI_gkls621_NAME" Language="zh_Hant_HK">
+			<Text>偉大的平凡</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_TSUGUMI_gkls621_DESCRIPTION" Language="zh_Hant_HK">
+			<Text>國境內每種已改良的資源提供+1 [ICON_TradeRoute] 貿易路線容量。貿易路線每經過本國一座 [ICON_TradingPost] 貿易站則+2 [ICON_Food] 食物，+2 [ICON_Production] 生產力，+2 [ICON_Gold] 金幣。城市內就職 [ICON_Governor] 總督的每項升級為終到該城市的貿易路線+1 [ICON_Science] 科技，解鎖「重商主義」後額外+1 [ICON_Science] 科技。騎兵可憑更高 [ICON_Movement] 移動力護送編隊單位。</Text>
+        </Row>
+        <Row Tag="LOC_DISTRICT_CAFFE_gkls621_NAME" Language="zh_Hant_HK">
+			<Text>咖啡店</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_CAFFE_gkls621_DESCRIPTION" Language="zh_Hant_HK">
+			<Text>羽澤鶇為領袖時的特色區域，替代醫療區，解鎖於「貨幣」，基礎造價更低。基礎+3 [ICON_Gold] 金幣，河流提供大量 [ICON_Gold] 金幣相鄰加成，區域提供標準 [ICON_Gold] 金幣相鄰加成。建成後為本城提供 [ICON_TradingPost] 貿易站，並提供一份 [ICON_RESOURCE_COFFEE] 咖啡。鶇的商人經過咖啡店時，生成兩個建造者。[NEWLINE]（啟用「全新相鄰加成」時）從本城出發的每條 [ICON_TradeRoute] 貿易路線提供+2 [ICON_Amenities] 宜居度，終到本城的每條 [ICON_TradeRoute] 貿易路線提供+2 [ICON_Housing] 住房。本城每6個 [ICON_Citizen] 人口提供+1 [ICON_TradeRoute] 貿易路線容量。[NEWLINE]（啟用「獨佔與企業」模式時）提供一個 [ICON_GreatWork_Product] 產品槽位與一份咖啡產品。</Text>
+		</Row>
+    </LocalizedText>
+</GameData>

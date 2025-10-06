@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+        <Row Tag="LOC_LEADER_MOCA_gkls621_NAME" Language="en_US">
+			<Text>Moca Aoba</Text>
+		</Row>
+
+		<Row Tag="LOC_TRAIT_LEADER_MOCA_gkls621_NAME" Language="en_US">
+			<Text>Slow Hand</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_MOCA_gkls621_DESCRIPTION" Language="en_US">
+			<Text>Receives a unique combat [ICON_GreatPerson] Great Person "Babanbo-sama" after establishing Capital, and can run the "Plead to Babanbo-sama" project to resurrect him after his death. Can purchase Government Plaza and Diplomatic Quarter buildings with [ICON_Faith] Faith. Tiles adjacent to the Government Plaza or Diplomatic Quarter gain +2 [ICON_Faith] Faith; and an additional +5 [ICON_Faith] Faith if also adjacent to a Bonus resource. After building a Government Plaza/Diplomatic Quarter, Builders can construct one corresponding district in each city. -25% [ICON_Faith] Faith cost for recruiting [ICON_GreatPerson] Great Persons. When recruiting a type of [ICON_GreatPerson] Great Person for the first time, receive an additional [ICON_GreatPerson] Great Person of the same type.</Text>
+        </Row>
+        <Row Tag="LOC_UNIT_BABANBO_gkls621_NAME" Language="en_US">
+			<Text>Babanbo-sama</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_BABANBO_gkls621_DESCRIPTION" Language="en_US">
+			<Text>Moca Aoba's unique melee [ICON_GreatPerson] Great Person unit, with a unique promotion tree and one free [ICON_Promotion] promotion. Ignores Zone of Control and penalties to [ICON_Movement] Movement from terrain, features, and rivers. +6 [ICON_Strength] Combat Strength for each type of [ICON_GreatPerson] Great Person ever recruited. +100% experience for friendly units within 3 tiles. Upon death, generates a Babanbo Statue in your Capital (moves with Palace), and can be resurrected via "Plead to Babanbo-sama".</Text>
+		</Row>
+    </LocalizedText>
+</GameData>

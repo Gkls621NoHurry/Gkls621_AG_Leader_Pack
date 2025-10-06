@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+        <Row Tag="LOC_LEADER_RAN_gkls621_NAME" Language="zh_Hans_CN">
+			<Text>美竹兰</Text>
+		</Row>
+
+		<Row Tag="LOC_TRAIT_LEADER_RAN_gkls621_NAME" Language="zh_Hans_CN">
+			<Text>叛逆红挑染</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_RAN_gkls621_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>产生三倍的厌战情绪，但城市的非食物产出不受负宜居度影响。所有军事单位获得等于国内每座城市曾因厌战损失宜居度最大值之和的 [ICON_Strength] 战斗力加成。幸福程度为懊恼/不高兴/不安/厌恶的城市生产军事单位时分别+50%/100%/200%/400% [ICON_Production] 生产力。 [ICON_Amenities] 宜居度为负的城市所生产的单位，夹击与支援加成翻倍；若是“厌恶”的城市，则翻为四倍。[NEWLINE]掠夺种植园时也获得 [ICON_Damaged] 生命值、 [ICON_Science] 科技与 [ICON_Culture] 文化。开局时获得“灌溉”60%的初始研究进度。</Text>
+        </Row>
+        <Row Tag="LOC_DISTRICT_IKEBANA_FAMILY_gkls621_NAME" Language="zh_Hans_CN">
+			<Text>花道世家</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_IKEBANA_FAMILY_gkls621_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>美竹兰为领袖时的特色区域，替代园林，基础造价更低。提供 [ICON_GreatGeneral] 大将军点数。具有 [ICON_Fortifying] 防御力，可执行 [ICON_Range] 远程攻击。战略资源储备+10（标准速度下）。建成该区域时获得两个抗骑兵单位，修复或建成其内建筑时则获得一个。[NEWLINE]随机于相邻未改良单元格生成种植园奢侈品资源。本城所有未改良的奢侈品资源单元格+3 [ICON_Science] 科技，+3 [ICON_Gold] 金币；处于黄金时代时该收益翻倍。</Text>
+		</Row>
+    </LocalizedText>
+</GameData>

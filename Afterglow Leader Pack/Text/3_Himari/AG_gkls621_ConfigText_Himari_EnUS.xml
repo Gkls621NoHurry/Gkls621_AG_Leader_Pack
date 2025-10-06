@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+        <Row Tag="LOC_LEADER_HIMARI_gkls621_NAME" Language="en_US">
+			<Text>Himari Uehara</Text>
+		</Row>
+
+		<Row Tag="LOC_TRAIT_LEADER_HIMARI_gkls621_NAME" Language="en_US">
+			<Text>Weight-Loss Plan</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_HIMARI_gkls621_DESCRIPTION" Language="en_US">
+			<Text>City gains +1 [ICON_Citizen] Population after building a Campus, Theater Square, or Industrial Zone. Farms, Pastures, and Camps provide standard adjacency bonuses to Theater Squares. For each [ICON_Citizen] Population lost in a city, that city's Industrial Zone receives +100% to all adjacency bonuses. After winning an Emergency, receive one [ICON_GreatEngineer] Great Engineer; achieving top 50% placement grants 50 [ICON_GreatEngineer] Great Engineer points. When Himari is in the game, special score competitions "Shouting AAO" and "SNS War" will occur.[NEWLINE](With "New Adjacency Bonuses" enabled) Each time Himari activates a [ICON_GreatEngineer] Great Engineer, all Industrial Zones in the empire gain +2 of all yields.</Text>
+        </Row>
+        <Row Tag="LOC_IMPROVEMENT_SUNNY_DOLL_gkls621_NAME" Language="en_US">
+			<Text>Talisman</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_SUNNY_DOLL_gkls621_DESCRIPTION" Language="en_US">
+			<Text>A unique Improvement for Himari Uehara, unlocked with 'State Workforce'. +1 [ICON_Production] Production, +1 [ICON_Faith] Faith, +1 [ICON_Housing] Housing. Provides minor adjacency bonuses to Theater Squares and Campuses, and a standard adjacency bonus to Industrial Zones. Adjacent Theater Squares, Campuses, and Industrial Zones provide +2 [ICON_Faith] Faith; additionally, Campuses provide +1 [ICON_Science] Science, Theater Squares provide +1 [ICON_Culture] Culture, and Industrial Zones provide +2 [ICON_Production] Production. After researching 'Flight', the [ICON_Faith] Faith bonus also provides [ICON_Tourism] Tourism.</Text>
+		</Row>
+    </LocalizedText>
+</GameData>

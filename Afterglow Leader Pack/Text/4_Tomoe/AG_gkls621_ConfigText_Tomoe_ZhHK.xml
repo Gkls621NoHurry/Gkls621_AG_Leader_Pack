@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+        <Row Tag="LOC_LEADER_TOMOE_gkls621_NAME" Language="zh_Hant_HK">
+			<Text>宇田川巴</Text>
+		</Row>
+
+		<Row Tag="LOC_TRAIT_LEADER_TOMOE_gkls621_NAME" Language="zh_Hant_HK">
+			<Text>尋味之旅</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_TOMOE_gkls621_DESCRIPTION" Language="zh_Hant_HK">
+			<Text>創立萬神殿、環遊世界時可宗主此前已遇見的全部城邦，或為已宗主的城邦+3 [ICON_Envoy] 使者。所宗主的每種城邦為所有單位+1 [ICON_Movement] 移動力。擊殺單位時，若同時宗主多個同類城邦，則首都+1對應產出。摧毀蠻族哨站所或探索部落村莊時獲得一個 [ICON_Envoy] 使者。</Text>
+        </Row>
+        <Row Tag="LOC_UNIT_TAIKO_TEAM_gkls621_NAME" Language="zh_Hant_HK">
+			<Text>太鼓隊</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_TAIKO_TEAM_gkls621_DESCRIPTION" Language="zh_Hant_HK">
+			<Text>宇田川巴為領袖時的特色單位，替代建造者，基礎造價更低， [ICON_Movement] 移動力更高且無視控制區。消耗 [ICON_Charges] 建造次數後，有概率於六環內某一無主單元格生成部落村莊。</Text>
+		</Row>
+    </LocalizedText>
+</GameData>

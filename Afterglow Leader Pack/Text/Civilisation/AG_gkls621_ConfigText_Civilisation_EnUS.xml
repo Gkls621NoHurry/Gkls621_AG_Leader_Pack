@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<Row Tag="LOC_CIVILIZATION_AG_gkls621_NAME" Language="en_US">
+			<Text>Afterglow</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_AG_gkls621_DESCRIPTION" Language="en_US">
+			<Text>Afterglow Empire</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_AG_gkls621_ADJECTIVE" Language="en_US">
+			<Text>Afterglow</Text>
+		</Row>
+        <Row Tag="LOC_TRAIT_CIVILIZATION_AG_gkls621_NAME" Language="en_US">
+			<Text>Same as Always</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_AG_gkls621_DESCRIPTION" Language="en_US">
+			<Text>All [ICON_Governor] Governors require only 2 turns to establish, and generate triple Loyalty. Receive four [ICON_TechBoosted] Eurekas and four [ICON_CivicBoosted] Inspirations of the current era each time you enter a new era. The Classical Era Dedication bonus is permanently active. All districts in cities you found provide +1 [ICON_Culture] Culture; districts in your Capital provide an additional +1 [ICON_Culture] Culture.</Text>
+		</Row>
+
+        <Row Tag="LOC_BUILDING_ROOFTOP_gkls621_NAME" Language="en_US">
+			<Text>Rooftop</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_ROOFTOP_gkls621_DESCRIPTION" Language="en_US">
+			<Text>Afterglow's unique building that replaces the Library. Lower cost. Cannot be pillaged by natural disasters, permanently reveals vision of tiles within 10 tiles. Additional +2 [ICON_Culture] Culture, +1 [ICON_GreatMusician] Great Musician points, and +2 [ICON_Culture] Culture for each era passed since construction or last repair. +6 [ICON_Strength] Combat Strength to this city's garrison, and +10 [ICON_Strength] Combat Strength when this city performs a Ranged Attack.</Text>
+		</Row>
+
+		<Row Tag="LOC_UNIT_FELLOW_GANG_gkls621_NAME" Language="en_US">
+			<Text>Fellow Gang</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_FELLOW_GANG_gkls621_DESCRIPTION" Language="en_US">
+			<Text>Afterglow's unique unit that replaces the Spearman. Unlocked with 'Irrigation'. Lower cost, but higher base [ICON_Strength] Combat Strength and [ICON_Movement] Movement, and ignores the [ICON_Strength] Combat Strength bonus melee units have against anti-cavalry units. +4 [ICON_Strength] Combat Strength for each adjacent Fellow Gang unit, +10 [ICON_Strength] Combat Strength when attacking district defenses. +2 [ICON_Movement] Movement in friendly territory.</Text>
+		</Row>
+    </LocalizedText>
+</GameData>

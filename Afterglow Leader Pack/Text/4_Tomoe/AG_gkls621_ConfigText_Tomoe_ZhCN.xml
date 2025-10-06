@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+        <Row Tag="LOC_LEADER_TOMOE_gkls621_NAME" Language="zh_Hans_CN">
+			<Text>宇田川巴</Text>
+		</Row>
+
+		<Row Tag="LOC_TRAIT_LEADER_TOMOE_gkls621_NAME" Language="zh_Hans_CN">
+			<Text>寻味之旅</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_TOMOE_gkls621_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>创立万神殿、环游世界时可宗主此前已遇见的全部城邦，或为已宗主的城邦+3 [ICON_Envoy] 使者。所宗主的每种城邦为所有单位+1 [ICON_Movement] 移动力。击杀单位时，若同时宗主多个同类城邦，则首都+1对应产出。摧毁蛮族营地或探索部落村庄时获得一个 [ICON_Envoy] 使者。</Text>
+        </Row>
+        <Row Tag="LOC_UNIT_TAIKO_TEAM_gkls621_NAME" Language="zh_Hans_CN">
+			<Text>太鼓队</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_TAIKO_TEAM_gkls621_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>宇田川巴为领袖时的特色单位，替代建造者，基础造价更低， [ICON_Movement] 移动力更高且无视控制区。消耗 [ICON_Charges] 建造次数后，有概率于六环内某一无主单元格生成部落村庄。</Text>
+		</Row>
+    </LocalizedText>
+</GameData>

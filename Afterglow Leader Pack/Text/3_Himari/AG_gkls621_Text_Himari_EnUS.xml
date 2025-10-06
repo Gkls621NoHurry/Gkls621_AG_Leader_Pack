@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+        <Row Tag="LOC_AGENDA_HIMARI_gkls621_NAME" Language="en_US">
+			<Text>Like and Repost</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_HIMARI_gkls621_DESCRIPTION" Language="en_US">
+			<Text>Will try hard to gain [ICON_Favor] Diplomatic Favor. Likes civilizations with high [ICON_Favor] Diplomatic Favor that are competing for a Diplomatic Victory; dislikes civilizations lacking [ICON_Favor] Diplomatic Favor.</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_INFO_LEADER_HIMARI_gkls621" Language="en_US">
+			<Text>Himari Uehara, your life is like an endless feast—constantly exploring for food and constantly enthused about love! For now, indulge in the sweet embrace of sugar; as for the weight loss issue, leave it for tomorrow's self to work miracles with great effort! Everyone loves the clumsy yet active you, and you always excitedly love this world, following uplifting news.</Text>
+		</Row>
+        
+        <Row Tag="LOC_HIMARI_FARM_THEATER_ADJACENCY_gkls621_DESCRIPTION" Language="en_US">
+			<Text>+ {1_num} [ICON_Culture] Culture from adjacent Farms.</Text>
+		</Row>
+		<Row Tag="LOC_HIMARI_PASTURE_THEATER_ADJACENCY_gkls621_DESCRIPTION" Language="en_US">
+			<Text>+ {1_num} [ICON_Culture] Culture from adjacent Pastures.</Text>
+		</Row>
+        <Row Tag="LOC_HIMARI_CAMP_THEATER_ADJACENCY_gkls621_DESCRIPTION" Language="en_US">
+			<Text>+ {1_num} [ICON_Culture] Culture from adjacent Camps.</Text>
+		</Row>
+		<Row Tag="LOC_HIMARI_INDUSTRY_FROM_ENGINEER_ACTIVATION_gkls621" Language="en_US">
+			<Text>+{1_iBonus} {2_YieldIcon} from {3_AdjacentSubjectNum} total [ICON_GreatEngineer] Great Engineer activations.</Text>
+		</Row>
+        <Row Tag="LOC_EMERGENCY_AAO_gkls621_NAME" Language="en_US">
+			<Text>Shouting AAO</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_REPOST_gkls621_NAME" Language="en_US">
+			<Text>SNS War</Text>
+		</Row>
+        <Row Tag="LOC_EMERGENCY_AAO_gkls621_BUFF_DESCRIPTION" Language="en_US">
+			<Text>+50% [ICON_Production] Production when building Campuses and Theater Squares.</Text>
+		</Row>
+        <Row Tag="LOC_EMERGENCY_REPOST_gkls621_BUFF_DESCRIPTION" Language="en_US">
+			<Text>Cities with Wonders gain +5 [ICON_Culture] Culture, +8 [ICON_Gold] Gold.</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_AAO_gkls621_FLAVOR" Language="en_US">
+			<Text>Everyone, shout together: A! A! O!</Text>
+		</Row>
+        <Row Tag="LOC_EMERGENCY_AAO_gkls621_DESCRIPTION" Language="en_US">
+			<Text>Let's see who is most committed to improving their civilization's science and culture!</Text>
+		</Row>
+        <Row Tag="LOC_EMERGENCY_AAO_gkls621_SUMMARY" Language="en_US">
+			<Text>Follow Himari's call and shout AAO together!</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_REPOST_gkls621_FLAVOR" Language="en_US">
+			<Text>Yes! I'm going to post a super popular update and go viral!</Text>
+		</Row>
+        <Row Tag="LOC_EMERGENCY_REPOST_gkls621_DESCRIPTION" Language="en_US">
+			<Text>Let's see who has the most Wonders!</Text>
+		</Row>
+        <Row Tag="LOC_EMERGENCY_REPOST_gkls621_SUMMARY" Language="en_US">
+			<Text>Compete with Himari to see who is the king of social media traffic!</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_AAO_gkls621_GOAL" Language="en_US">
+			<Text>A! A! O! together and achieve the highest score!</Text>
+		</Row>
+        <Row Tag="LOC_EMERGENCY_REPOST_gkls621_GOAL" Language="en_US">
+			<Text>Create today's buzz and achieve the highest score!</Text>
+		</Row>
+        <Row Tag="LOC_AAO_SCORE_FROM_ARTIST_gkls621_DESCRIPTION" Language="en_US">
+			<Text>Gain [ICON_GreatWriter] Great Writer, [ICON_GreatArtist] Great Artist, and [ICON_GreatMusician] Great Musician points. Build more Theater Squares.</Text>
+		</Row>
+		<Row Tag="LOC_AAO_SCORE_FROM_SCIENTIST_gkls621_DESCRIPTION" Language="en_US">
+			<Text>Gain [ICON_GreatScientist] Great Scientist points. Build more Campuses.</Text>
+		</Row>
+        <Row Tag="LOC_REPOST_SCORE_FROM_WONDERS_gkls621_DESCRIPTION" Language="en_US">
+			<Text>Own more Wonders.</Text>
+		</Row>
+        <Row Tag="LOC_AAO_GRANT_ARTIST_gkls621" Language="en_US">
+			<Text>Receive one [ICON_GreatArtist] Great Artist.</Text>
+		</Row>
+		<Row Tag="LOC_AAO_GRANT_GPP_MEDIUM_gkls621" Language="en_US">
+			<Text>Receive 500 [ICON_Gold] Gold.</Text>
+		</Row>
+        <Row Tag="LOC_AAO_GRANT_GPP_SMALL_gkls621" Language="en_US">
+			<Text>Receive 250 [ICON_Gold] Gold.</Text>
+		</Row>
+        <Row Tag="LOC_REPOST_CITIES_WONDER_TOURISM_gkls621" Language="en_US">
+			<Text>Receive one [ICON_GreatMerchant] Great Merchant.</Text>
+		</Row>
+		<Row Tag="LOC_REPOST_THEATER_CULTURAL_BOMB_gkls621" Language="en_US">
+			<Text>Receive 20 [ICON_GreatPerson] Great Person points.</Text>
+		</Row>
+        <Row Tag="LOC_REPOST_DIPLOMATIC_CULTURAL_BOMB_gkls621" Language="en_US">
+			<Text>Receive 10 [ICON_GreatPerson] Great Person points.</Text>
+		</Row>
+        <Row Tag="LOC_CAMPUS_SUNNY_DOLL_SCIENCE_gkls621" Language="en_US">
+			<Text>+ {1_num} [ICON_Science] Science from adjacent Talismans.</Text>
+		</Row>
+		<Row Tag="LOC_THEATER_SUNNY_DOLL_CULTURE_gkls621" Language="en_US">
+			<Text>+ {1_num} [ICON_Culture] Culture from adjacent Talismans.</Text>
+		</Row>
+        <Row Tag="LOC_INDUSTRY_SUNNY_DOLL_PRODUCTION_gkls621" Language="en_US">
+			<Text>+ {1_num} [ICON_Production] Production from adjacent Talismans.</Text>
+		</Row>
+		<Row Tag="LOC_HIMARI_POPULATION_LOSS_BONUS" Language="en_US">
+			<Text>Industrial Zone Adjacency Bonus</Text>
+		</Row>
+
+		<!--Civilopedia contents-->
+		<Row Tag="LOC_LEADER_HIMARI_gkls621_QUOTE" Language="en_US">
+			<Text>Ei, Ei, Oh![NEWLINE](A, A, O!)</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_HIMARI_gkls621_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>The bassist of Afterglow, and the de jure leader of the band. Often takes the lead in pumping up the atmosphere by shouting "Ei! Ei! Oh!" (commonly known as "AAO"), but is often met with silence, earning her the nickname "One Call, Zero Response".</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_HIMARI_gkls621_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>Loves eating chocolate and is always worrying about her increasing weight. She screams when she sees the number on the scale, hence also called "Hima"-ri (a pun on 'fat'). (Moca: Let's transfer all the fat to poor Hi-Chan =w=)</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_HIMARI_gkls621_CHAPTER_HISTORY_PARA_3" Language="en_US">
+			<Text>As the most optimistic member of Afterglow, Himari is the coordinator of the five and the most 'girly' member of the group. However, she has a low tear threshold and is defenseless against touching stories—and also defenseless against the peerless coolness of Lady Kaoru Seta.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_HIMARI_gkls621_CHAPTER_HISTORY_PARA_4" Language="en_US">
+			<Text>Himari has gyaru attributes. Although jokes about her figure are prevalent (unlike the often-mentioned Lisa or Touko), she enjoys comparing various sweets bought from convenience stores, is passionate about making desserts by hand, and loves collecting cute things like pretty clothes and plush toys, actively engaging in social networks.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_HIMARI_gkls621_CHAPTER_HISTORY_PARA_5" Language="en_US">
+			<Text>(Compiled from Fandom, Moegirlpedia)[NEWLINE][NEWLINE][NEWLINE][NEWLINE][NEWLINE][NEWLINE][NEWLINE][NEWLINE]Did you know: Himari, also a pink-haired character, is honorably listed among the "Maruyama Family", and due to her stature, is nicknamed "Grand Maruyama".</Text>
+		</Row>
+
+		<Row Tag="LOC_PEDIA_IMPROVEMENTS_PAGE_IMPROVEMENT_SUNNY_DOLL_gkls621_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Talismans, often carried on one's person to ward off disaster. They come in various forms, including pendants and bracelets.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_IMPROVEMENTS_PAGE_IMPROVEMENT_SUNNY_DOLL_gkls621_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>As the leader who wished to make a tangible contribution to Afterglow, Himari personally sewed talismans for each of her Afterglow companions. However, her rather rough craftsmanship resulted in products that were not very aesthetically pleasing, once stunning the scene into silence.</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_HIMARI_gkls621_AGENDA_HIGH_FAVOR" Language="en_US">
+			<Text>You're shining so brightly now... At this rate, you'll surpass me in the blink of an eye! But that means I'll respond with effort too. I'm sure we can maintain a great relationship from now on!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_HIMARI_gkls621_AGENDA_LOW_FAVOR" Language="en_US">
+			<Text>The atmosphere is so good, won't you join in T_T...?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_HIMARI_gkls621_AGENDA_HIGH_FAVOR" Language="en_US">
+			<Text>She likes civilizations with high Diplomatic Favor.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_HIMARI_gkls621_AGENDA_LOW_FAVOR" Language="en_US">
+			<Text>She dislikes civilizations not competing for a Diplomatic Victory.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_HIMARI_gkls621_ANY" Language="en_US">
+			<Text>Great, great! Sounds fun! Then we're friends, right~?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_HIMARI_gkls621_ANY" Language="en_US">
+			<Text>No, no, this is too embarrassing!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_HIMARI_gkls621_ANY" Language="en_US">
+			<Text>Getting fired up, right? Let's have fun together—Ei! Ei! Oh!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_HIMARI_gkls621_ANY" Language="en_US">
+			<Text>Great, great! Sounds fun! Then we're friends, right~?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_HIMARI_gkls621_ANY" Language="en_US">
+			<Text>Why is nobody paying attention to me (╥﹏╥)...?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_HIMARI_gkls621_ANY" Language="en_US">
+			<Text>N-No, no! Now is my best chance to fulfill my duty as leader!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_HIMARI_gkls621_ANY" Language="en_US">
+			<Text>Everyone~ Let's do our best for this epic battle—Ei! Ei! Oh!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_HIMARI_gkls621_ANY" Language="en_US">
+			<Text>No, no, I can't cry yet!... Because I'm the leader, the captain of Afterglow...</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_HIMARI_gkls621_ANY" Language="en_US">
+			<Text>No, no, I can't cry yet!... Because I'm the leader, the captain of Afterglow...</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_HIMARI_gkls621_ANY" Language="en_US">
+			<Text>After all, today is the day your delegation arrives! I've been looking forward to it for a week~!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_HIMARI_gkls621_ANY" Language="en_US">
+			<Text>Sniff... I want to eat cake... But I don't want to gain weight... But, cake... But I don't want to gain weight...</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_HIMARI_gkls621_ANY" Language="en_US">
+			<Text>We've brought lots of great things! There's the rarest performance poster of Senior Kaoru in existence, fluffy sweets that you and I will both love, and a talisman I made by hand, inspired by your style!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_HIMARI_gkls621_ANY" Language="en_US">
+			<Text>Um... that doesn't sound like a compliment...</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_HIMARI_gkls621_ANY" Language="en_US">
+			<Text>Hmm... I don't get it...</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_HIMARI_gkls621_ANY" Language="en_US">
+			<Text>I'm Himari Uehara. I'm involved in various club activities, and also, I'm the bassist in Afterglow~ Yeah, just talking about it fills me with motivation!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_HIMARI_gkls621_ANY" Language="en_US">
+			<Text>Ah, sorry! I kept talking about myself... Sniff, I'll reflect on it...[NEWLINE]You want to hear more while we have the chance...?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_HIMARI_gkls621_ANY" Language="en_US">
+			<Text>Even though I plan to diet, I absolutely can't miss out on your country's famous chocolate! I'll just keep the diet as a 'preparation' for now, hehe...</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_HIMARI_gkls621_ANY" Language="en_US">
+			<Text>As long as everyone is together, we can overcome any difficulty, right~? I want to stay together with everyone forever too...</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_HIMARI_gkls621_ANY" Language="en_US">
+			<Text>Looking forward to working with you again today~ Yeah, I'm full of energy today too!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_HIMARI_gkls621_ANY" Language="en_US">
+			<Text>Let's both work even harder and not lose to the passion we had back then!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_HIMARI_gkls621_ANY" Language="en_US">
+			<Text>Don't look at me with strange eyes and then walk away~! Please, listen to my explanation~!!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_HIMARI_gkls621_ANY" Language="en_US">
+			<Text>You always act alone...—Isn't that lonely? And besides, war and conflict are the worst!</Text>
+		</Row>
+    </LocalizedText>
+</GameData>

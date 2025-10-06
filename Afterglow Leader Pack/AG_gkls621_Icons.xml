@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<GameData>
+    <IconTextureAtlases>
+        <!--Civilisation-->
+        <Row Name="ATLAS_ICON_CIVILIZATION_AG_gkls621" IconSize="22" Filename="ICON_CIVILIZATION_AG_gkls621_22"/>
+        <Row Name="ATLAS_ICON_CIVILIZATION_AG_gkls621" IconSize="30" Filename="ICON_CIVILIZATION_AG_gkls621_30"/>
+        <Row Name="ATLAS_ICON_CIVILIZATION_AG_gkls621" IconSize="32" Filename="ICON_CIVILIZATION_AG_gkls621_32"/>
+        <Row Name="ATLAS_ICON_CIVILIZATION_AG_gkls621" IconSize="36" Filename="ICON_CIVILIZATION_AG_gkls621_36"/>
+        <Row Name="ATLAS_ICON_CIVILIZATION_AG_gkls621" IconSize="44" Filename="ICON_CIVILIZATION_AG_gkls621_44"/>
+        <Row Name="ATLAS_ICON_CIVILIZATION_AG_gkls621" IconSize="45" Filename="ICON_CIVILIZATION_AG_gkls621_45"/>
+        <Row Name="ATLAS_ICON_CIVILIZATION_AG_gkls621" IconSize="48" Filename="ICON_CIVILIZATION_AG_gkls621_48"/>
+        <Row Name="ATLAS_ICON_CIVILIZATION_AG_gkls621" IconSize="50" Filename="ICON_CIVILIZATION_AG_gkls621_50"/>
+        <Row Name="ATLAS_ICON_CIVILIZATION_AG_gkls621" IconSize="64" Filename="ICON_CIVILIZATION_AG_gkls621_64"/>
+        <Row Name="ATLAS_ICON_CIVILIZATION_AG_gkls621" IconSize="80" Filename="ICON_CIVILIZATION_AG_gkls621_80"/>
+        <Row Name="ATLAS_ICON_CIVILIZATION_AG_gkls621" IconSize="128" Filename="ICON_CIVILIZATION_AG_gkls621_128"/>
+        <Row Name="ATLAS_ICON_CIVILIZATION_AG_gkls621" IconSize="200" Filename="ICON_CIVILIZATION_AG_gkls621_200"/>
+        <Row Name="ATLAS_ICON_CIVILIZATION_AG_gkls621" IconSize="256" Filename="ICON_CIVILIZATION_AG_gkls621_256"/>
+        <!--Leaders-->
+        <Row Name="ATLAS_LEADER_RAN_gkls621" IconSize="32" Filename="LEADER_RAN_gkls621_32"/>
+        <Row Name="ATLAS_LEADER_RAN_gkls621" IconSize="45" Filename="LEADER_RAN_gkls621_45"/>
+        <Row Name="ATLAS_LEADER_RAN_gkls621" IconSize="48" Filename="LEADER_RAN_gkls621_48"/>
+        <Row Name="ATLAS_LEADER_RAN_gkls621" IconSize="50" Filename="LEADER_RAN_gkls621_50"/>
+        <Row Name="ATLAS_LEADER_RAN_gkls621" IconSize="55" Filename="LEADER_RAN_gkls621_55"/>
+        <Row Name="ATLAS_LEADER_RAN_gkls621" IconSize="64" Filename="LEADER_RAN_gkls621_64"/>
+        <Row Name="ATLAS_LEADER_RAN_gkls621" IconSize="80" Filename="LEADER_RAN_gkls621_80"/>
+        <Row Name="ATLAS_LEADER_RAN_gkls621" IconSize="256" Filename="LEADER_RAN_gkls621_256"/>
+        <Row Name="ATLAS_LEADER_MOCA_gkls621" IconSize="32" Filename="LEADER_MOCA_gkls621_32"/>
+        <Row Name="ATLAS_LEADER_MOCA_gkls621" IconSize="45" Filename="LEADER_MOCA_gkls621_45"/>
+        <Row Name="ATLAS_LEADER_MOCA_gkls621" IconSize="48" Filename="LEADER_MOCA_gkls621_48"/>
+        <Row Name="ATLAS_LEADER_MOCA_gkls621" IconSize="50" Filename="LEADER_MOCA_gkls621_50"/>
+        <Row Name="ATLAS_LEADER_MOCA_gkls621" IconSize="55" Filename="LEADER_MOCA_gkls621_55"/>
+        <Row Name="ATLAS_LEADER_MOCA_gkls621" IconSize="64" Filename="LEADER_MOCA_gkls621_64"/>
+        <Row Name="ATLAS_LEADER_MOCA_gkls621" IconSize="80" Filename="LEADER_MOCA_gkls621_80"/>
+        <Row Name="ATLAS_LEADER_MOCA_gkls621" IconSize="256" Filename="LEADER_MOCA_gkls621_256"/>
+        <Row Name="ATLAS_LEADER_HIMARI_gkls621" IconSize="32" Filename="LEADER_HIMARI_gkls621_32"/>
+        <Row Name="ATLAS_LEADER_HIMARI_gkls621" IconSize="45" Filename="LEADER_HIMARI_gkls621_45"/>
+        <Row Name="ATLAS_LEADER_HIMARI_gkls621" IconSize="48" Filename="LEADER_HIMARI_gkls621_48"/>
+        <Row Name="ATLAS_LEADER_HIMARI_gkls621" IconSize="50" Filename="LEADER_HIMARI_gkls621_50"/>
+        <Row Name="ATLAS_LEADER_HIMARI_gkls621" IconSize="55" Filename="LEADER_HIMARI_gkls621_55"/>
+        <Row Name="ATLAS_LEADER_HIMARI_gkls621" IconSize="64" Filename="LEADER_HIMARI_gkls621_64"/>
+        <Row Name="ATLAS_LEADER_HIMARI_gkls621" IconSize="80" Filename="LEADER_HIMARI_gkls621_80"/>
+        <Row Name="ATLAS_LEADER_HIMARI_gkls621" IconSize="256" Filename="LEADER_HIMARI_gkls621_256"/>
+        <Row Name="ATLAS_LEADER_TOMOE_gkls621" IconSize="32" Filename="LEADER_TOMOE_gkls621_32"/>
+        <Row Name="ATLAS_LEADER_TOMOE_gkls621" IconSize="45" Filename="LEADER_TOMOE_gkls621_45"/>
+        <Row Name="ATLAS_LEADER_TOMOE_gkls621" IconSize="48" Filename="LEADER_TOMOE_gkls621_48"/>
+        <Row Name="ATLAS_LEADER_TOMOE_gkls621" IconSize="50" Filename="LEADER_TOMOE_gkls621_50"/>
+        <Row Name="ATLAS_LEADER_TOMOE_gkls621" IconSize="55" Filename="LEADER_TOMOE_gkls621_55"/>
+        <Row Name="ATLAS_LEADER_TOMOE_gkls621" IconSize="64" Filename="LEADER_TOMOE_gkls621_64"/>
+        <Row Name="ATLAS_LEADER_TOMOE_gkls621" IconSize="80" Filename="LEADER_TOMOE_gkls621_80"/>
+        <Row Name="ATLAS_LEADER_TOMOE_gkls621" IconSize="256" Filename="LEADER_TOMOE_gkls621_256"/>
+        <Row Name="ATLAS_LEADER_TSUGUMI_gkls621" IconSize="32" Filename="LEADER_TSUGUMI_gkls621_32"/>
+        <Row Name="ATLAS_LEADER_TSUGUMI_gkls621" IconSize="45" Filename="LEADER_TSUGUMI_gkls621_45"/>
+        <Row Name="ATLAS_LEADER_TSUGUMI_gkls621" IconSize="48" Filename="LEADER_TSUGUMI_gkls621_48"/>
+        <Row Name="ATLAS_LEADER_TSUGUMI_gkls621" IconSize="50" Filename="LEADER_TSUGUMI_gkls621_50"/>
+        <Row Name="ATLAS_LEADER_TSUGUMI_gkls621" IconSize="55" Filename="LEADER_TSUGUMI_gkls621_55"/>
+        <Row Name="ATLAS_LEADER_TSUGUMI_gkls621" IconSize="64" Filename="LEADER_TSUGUMI_gkls621_64"/>
+        <Row Name="ATLAS_LEADER_TSUGUMI_gkls621" IconSize="80" Filename="LEADER_TSUGUMI_gkls621_80"/>
+        <Row Name="ATLAS_LEADER_TSUGUMI_gkls621" IconSize="256" Filename="LEADER_TSUGUMI_gkls621_256"/>
+        <!--Improvements-->
+        <Row Name="ATLAS_ICON_IMPROVEMENT_SUNNY_DOLL_gkls621" IconSize="38" Filename="ICON_IMPROVEMENT_SUNNY_DOLL_gkls621_38"/>
+        <Row Name="ATLAS_ICON_IMPROVEMENT_SUNNY_DOLL_gkls621" IconSize="50" Filename="ICON_IMPROVEMENT_SUNNY_DOLL_gkls621_50"/>
+        <Row Name="ATLAS_ICON_IMPROVEMENT_SUNNY_DOLL_gkls621" IconSize="80" Filename="ICON_IMPROVEMENT_SUNNY_DOLL_gkls621_80"/>
+        <Row Name="ATLAS_ICON_IMPROVEMENT_SUNNY_DOLL_gkls621" IconSize="256" Filename="ICON_IMPROVEMENT_SUNNY_DOLL_gkls621_256"/>
+        <Row Name="ATLAS_ICON_IMPROVEMENT_MOCA_GOV_gkls621" IconSize="38" Filename="ICON_IMPROVEMENT_MOCA_GOV_gkls621_38"/>
+        <Row Name="ATLAS_ICON_IMPROVEMENT_MOCA_GOV_gkls621" IconSize="50" Filename="ICON_IMPROVEMENT_MOCA_GOV_gkls621_50"/>
+        <Row Name="ATLAS_ICON_IMPROVEMENT_MOCA_GOV_gkls621" IconSize="80" Filename="ICON_IMPROVEMENT_MOCA_GOV_gkls621_80"/>
+        <Row Name="ATLAS_ICON_IMPROVEMENT_MOCA_GOV_gkls621" IconSize="256" Filename="ICON_IMPROVEMENT_MOCA_GOV_gkls621_256"/>
+        <Row Name="ATLAS_ICON_IMPROVEMENT_MOCA_DIP_gkls621" IconSize="38" Filename="ICON_IMPROVEMENT_MOCA_DIP_gkls621_38"/>
+        <Row Name="ATLAS_ICON_IMPROVEMENT_MOCA_DIP_gkls621" IconSize="50" Filename="ICON_IMPROVEMENT_MOCA_DIP_gkls621_50"/>
+        <Row Name="ATLAS_ICON_IMPROVEMENT_MOCA_DIP_gkls621" IconSize="80" Filename="ICON_IMPROVEMENT_MOCA_DIP_gkls621_80"/>
+        <Row Name="ATLAS_ICON_IMPROVEMENT_MOCA_DIP_gkls621" IconSize="256" Filename="ICON_IMPROVEMENT_MOCA_DIP_gkls621_256"/>
+        <!--Buildings-->
+        <Row Name="ATLAS_ICON_BUILDING_ROOFTOP_gkls621" IconSize="32" Filename="ICON_BUILDING_ROOFTOP_gkls621_32"/>
+        <Row Name="ATLAS_ICON_BUILDING_ROOFTOP_gkls621" IconSize="38" Filename="ICON_BUILDING_ROOFTOP_gkls621_38"/>
+        <Row Name="ATLAS_ICON_BUILDING_ROOFTOP_gkls621" IconSize="50" Filename="ICON_BUILDING_ROOFTOP_gkls621_50"/>
+        <Row Name="ATLAS_ICON_BUILDING_ROOFTOP_gkls621" IconSize="80" Filename="ICON_BUILDING_ROOFTOP_gkls621_80"/>
+        <Row Name="ATLAS_ICON_BUILDING_ROOFTOP_gkls621" IconSize="128" Filename="ICON_BUILDING_ROOFTOP_gkls621_128"/>
+        <Row Name="ATLAS_ICON_BUILDING_ROOFTOP_gkls621" IconSize="256" Filename="ICON_BUILDING_ROOFTOP_gkls621_256"/>
+        <!--Districts-->
+        <Row Name="ATLAS_ICON_DISTRICT_CAFFE_gkls621" IconSize="22" Filename="ICON_DISTRICT_CAFFE_gkls621_22"/>
+        <Row Name="ATLAS_ICON_DISTRICT_CAFFE_gkls621" IconSize="32" Filename="ICON_DISTRICT_CAFFE_gkls621_32"/>
+        <Row Name="ATLAS_ICON_DISTRICT_CAFFE_gkls621" IconSize="38" Filename="ICON_DISTRICT_CAFFE_gkls621_38"/>
+        <Row Name="ATLAS_ICON_DISTRICT_CAFFE_gkls621" IconSize="50" Filename="ICON_DISTRICT_CAFFE_gkls621_50"/>
+        <Row Name="ATLAS_ICON_DISTRICT_CAFFE_gkls621" IconSize="80" Filename="ICON_DISTRICT_CAFFE_gkls621_80"/>
+        <Row Name="ATLAS_ICON_DISTRICT_CAFFE_gkls621" IconSize="128" Filename="ICON_DISTRICT_CAFFE_gkls621_128"/>
+        <Row Name="ATLAS_ICON_DISTRICT_CAFFE_gkls621" IconSize="256" Filename="ICON_DISTRICT_CAFFE_gkls621_256"/>
+        <Row Name="ATLAS_ICON_DISTRICT_IKEBANA_FAMILY_gkls621" IconSize="22" Filename="ICON_DISTRICT_IKEBANA_FAMILY_gkls621_22"/>
+        <Row Name="ATLAS_ICON_DISTRICT_IKEBANA_FAMILY_gkls621" IconSize="32" Filename="ICON_DISTRICT_IKEBANA_FAMILY_gkls621_32"/>
+        <Row Name="ATLAS_ICON_DISTRICT_IKEBANA_FAMILY_gkls621" IconSize="38" Filename="ICON_DISTRICT_IKEBANA_FAMILY_gkls621_38"/>
+        <Row Name="ATLAS_ICON_DISTRICT_IKEBANA_FAMILY_gkls621" IconSize="50" Filename="ICON_DISTRICT_IKEBANA_FAMILY_gkls621_50"/>
+        <Row Name="ATLAS_ICON_DISTRICT_IKEBANA_FAMILY_gkls621" IconSize="80" Filename="ICON_DISTRICT_IKEBANA_FAMILY_gkls621_80"/>
+        <Row Name="ATLAS_ICON_DISTRICT_IKEBANA_FAMILY_gkls621" IconSize="128" Filename="ICON_DISTRICT_IKEBANA_FAMILY_gkls621_128"/>
+        <Row Name="ATLAS_ICON_DISTRICT_IKEBANA_FAMILY_gkls621" IconSize="256" Filename="ICON_DISTRICT_IKEBANA_FAMILY_gkls621_256"/>
+        <!--Units-->
+        <Row Name="ATLAS_UNIT_FELLOW_GANG_gkls621" IconSize="22" Filename="UNIT_FELLOW_GANG_gkls621_22"/>
+        <Row Name="ATLAS_UNIT_FELLOW_GANG_gkls621" IconSize="32" Filename="UNIT_FELLOW_GANG_gkls621_32"/>
+        <Row Name="ATLAS_UNIT_FELLOW_GANG_gkls621" IconSize="38" Filename="UNIT_FELLOW_GANG_gkls621_38"/>
+        <Row Name="ATLAS_UNIT_FELLOW_GANG_gkls621" IconSize="50" Filename="UNIT_FELLOW_GANG_gkls621_50"/>
+        <Row Name="ATLAS_UNIT_FELLOW_GANG_gkls621" IconSize="80" Filename="UNIT_FELLOW_GANG_gkls621_80"/>
+        <Row Name="ATLAS_UNIT_FELLOW_GANG_gkls621" IconSize="256" Filename="UNIT_FELLOW_GANG_gkls621_256"/>
+        <Row Name="ATLAS_UNIT_BABANBO_gkls621" IconSize="22" Filename="UNIT_BABANBO_gkls621_22"/>
+        <Row Name="ATLAS_UNIT_BABANBO_gkls621" IconSize="32" Filename="UNIT_BABANBO_gkls621_32"/>
+        <Row Name="ATLAS_UNIT_BABANBO_gkls621" IconSize="38" Filename="UNIT_BABANBO_gkls621_38"/>
+        <Row Name="ATLAS_UNIT_BABANBO_gkls621" IconSize="50" Filename="UNIT_BABANBO_gkls621_50"/>
+        <Row Name="ATLAS_UNIT_BABANBO_gkls621" IconSize="80" Filename="UNIT_BABANBO_gkls621_80"/>
+        <Row Name="ATLAS_UNIT_BABANBO_gkls621" IconSize="256" Filename="UNIT_BABANBO_gkls621_256"/>
+        <Row Name="ATLAS_UNIT_TAIKO_TEAM_gkls621" IconSize="22" Filename="UNIT_TAIKO_TEAM_gkls621_22"/>
+        <Row Name="ATLAS_UNIT_TAIKO_TEAM_gkls621" IconSize="32" Filename="UNIT_TAIKO_TEAM_gkls621_32"/>
+        <Row Name="ATLAS_UNIT_TAIKO_TEAM_gkls621" IconSize="38" Filename="UNIT_TAIKO_TEAM_gkls621_38"/>
+        <Row Name="ATLAS_UNIT_TAIKO_TEAM_gkls621" IconSize="50" Filename="UNIT_TAIKO_TEAM_gkls621_50"/>
+        <Row Name="ATLAS_UNIT_TAIKO_TEAM_gkls621" IconSize="80" Filename="UNIT_TAIKO_TEAM_gkls621_80"/>
+        <Row Name="ATLAS_UNIT_TAIKO_TEAM_gkls621" IconSize="256" Filename="UNIT_TAIKO_TEAM_gkls621_256"/>
+        <!--Unit Portraits-->
+        <Row Name="ATLAS_UNIT_FELLOW_GANG_PORTRAIT_gkls621" IconSize="38" Filename="UNIT_FELLOW_GANG_PORTRAIT_gkls621_38"/>
+        <Row Name="ATLAS_UNIT_FELLOW_GANG_PORTRAIT_gkls621" IconSize="50" Filename="UNIT_FELLOW_GANG_PORTRAIT_gkls621_50"/>
+        <Row Name="ATLAS_UNIT_FELLOW_GANG_PORTRAIT_gkls621" IconSize="70" Filename="UNIT_FELLOW_GANG_PORTRAIT_gkls621_70"/>
+        <Row Name="ATLAS_UNIT_FELLOW_GANG_PORTRAIT_gkls621" IconSize="95" Filename="UNIT_FELLOW_GANG_PORTRAIT_gkls621_95"/>
+        <Row Name="ATLAS_UNIT_FELLOW_GANG_PORTRAIT_gkls621" IconSize="200" Filename="UNIT_FELLOW_GANG_PORTRAIT_gkls621_200"/>
+        <Row Name="ATLAS_UNIT_FELLOW_GANG_PORTRAIT_gkls621" IconSize="256" Filename="UNIT_FELLOW_GANG_PORTRAIT_gkls621_256"/>
+        <Row Name="ATLAS_UNIT_BABANBO_PORTRAIT_gkls621" IconSize="38" Filename="UNIT_BABANBO_PORTRAIT_gkls621_38"/>
+        <Row Name="ATLAS_UNIT_BABANBO_PORTRAIT_gkls621" IconSize="50" Filename="UNIT_BABANBO_PORTRAIT_gkls621_50"/>
+        <Row Name="ATLAS_UNIT_BABANBO_PORTRAIT_gkls621" IconSize="70" Filename="UNIT_BABANBO_PORTRAIT_gkls621_70"/>
+        <Row Name="ATLAS_UNIT_BABANBO_PORTRAIT_gkls621" IconSize="95" Filename="UNIT_BABANBO_PORTRAIT_gkls621_95"/>
+        <Row Name="ATLAS_UNIT_BABANBO_PORTRAIT_gkls621" IconSize="200" Filename="UNIT_BABANBO_PORTRAIT_gkls621_200"/>
+        <Row Name="ATLAS_UNIT_BABANBO_PORTRAIT_gkls621" IconSize="256" Filename="UNIT_BABANBO_PORTRAIT_gkls621_256"/>
+        <Row Name="ATLAS_UNIT_TAIKO_TEAM_PORTRAIT_gkls621" IconSize="38" Filename="UNIT_TAIKO_TEAM_PORTRAIT_gkls621_38"/>
+        <Row Name="ATLAS_UNIT_TAIKO_TEAM_PORTRAIT_gkls621" IconSize="50" Filename="UNIT_TAIKO_TEAM_PORTRAIT_gkls621_50"/>
+        <Row Name="ATLAS_UNIT_TAIKO_TEAM_PORTRAIT_gkls621" IconSize="70" Filename="UNIT_TAIKO_TEAM_PORTRAIT_gkls621_70"/>
+        <Row Name="ATLAS_UNIT_TAIKO_TEAM_PORTRAIT_gkls621" IconSize="95" Filename="UNIT_TAIKO_TEAM_PORTRAIT_gkls621_95"/>
+        <Row Name="ATLAS_UNIT_TAIKO_TEAM_PORTRAIT_gkls621" IconSize="200" Filename="UNIT_TAIKO_TEAM_PORTRAIT_gkls621_200"/>
+        <Row Name="ATLAS_UNIT_TAIKO_TEAM_PORTRAIT_gkls621" IconSize="256" Filename="UNIT_TAIKO_TEAM_PORTRAIT_gkls621_256"/>
+    </IconTextureAtlases>
+    <IconDefinitions>
+        <!--Civilisation-->
+        <Row Name="ICON_CIVILIZATION_AG_gkls621" Atlas="ATLAS_ICON_CIVILIZATION_AG_gkls621" Index="0"/>
+        <!--Leaders-->
+        <Row Name="ICON_LEADER_RAN_gkls621" Atlas="ATLAS_LEADER_RAN_gkls621" Index="0"/>
+        <Row Name="ICON_LEADER_MOCA_gkls621" Atlas="ATLAS_LEADER_MOCA_gkls621" Index="0"/>
+        <Row Name="ICON_LEADER_HIMARI_gkls621" Atlas="ATLAS_LEADER_HIMARI_gkls621" Index="0"/>
+        <Row Name="ICON_LEADER_TOMOE_gkls621" Atlas="ATLAS_LEADER_TOMOE_gkls621" Index="0"/>
+        <Row Name="ICON_LEADER_TSUGUMI_gkls621" Atlas="ATLAS_LEADER_TSUGUMI_gkls621" Index="0"/>
+        <!--Improvements-->
+        <Row Name="ICON_IMPROVEMENT_SUNNY_DOLL_gkls621" Atlas="ATLAS_ICON_IMPROVEMENT_SUNNY_DOLL_gkls621" Index="0"/>
+        <Row Name="ICON_IMPROVEMENT_MOCA_GOV_gkls621" Atlas="ATLAS_ICON_IMPROVEMENT_MOCA_GOV_gkls621" Index="0"/>
+        <Row Name="ICON_IMPROVEMENT_MOCA_DIP_gkls621" Atlas="ATLAS_ICON_IMPROVEMENT_MOCA_DIP_gkls621" Index="0"/>
+        <!--Buildings-->
+        <Row Name="ICON_BUILDING_ROOFTOP_gkls621" Atlas="ATLAS_ICON_BUILDING_ROOFTOP_gkls621" Index="0"/>
+        <Row Name="ICON_BUILDING_TSUGU_SHOWCASE_gkls621" Atlas="ATLAS_ICON_DISTRICT_CAFFE_gkls621" Index="0"/>
+        <Row Name="ICON_BUILDING_BABANBO_STATUE_gkls621" Atlas="ICON_ATLAS_BUILDINGS" Index="0"/>
+        <!--Districts-->
+        <Row Name="ICON_DISTRICT_CAFFE_gkls621" Atlas="ATLAS_ICON_DISTRICT_CAFFE_gkls621" Index="0"/>
+        <Row Name="ICON_DISTRICT_IKEBANA_FAMILY_gkls621" Atlas="ATLAS_ICON_DISTRICT_IKEBANA_FAMILY_gkls621" Index="0"/>
+        <!--Units-->
+        <Row Name="ICON_UNIT_FELLOW_GANG_gkls621" Atlas="ATLAS_UNIT_FELLOW_GANG_gkls621" Index="0"/>
+        <Row Name="ICON_UNIT_BABANBO_gkls621" Atlas="ATLAS_UNIT_BABANBO_gkls621" Index="0"/>
+        <Row Name="ICON_UNIT_TAIKO_TEAM_gkls621" Atlas="ATLAS_UNIT_TAIKO_TEAM_gkls621" Index="0"/>
+        <!--Unit Portraits-->
+        <Row Name="ICON_UNIT_FELLOW_GANG_gkls621_PORTRAIT" Atlas="ATLAS_UNIT_FELLOW_GANG_PORTRAIT_gkls621" Index="0"/>
+        <Row Name="ICON_UNIT_BABANBO_gkls621_PORTRAIT" Atlas="ATLAS_UNIT_BABANBO_PORTRAIT_gkls621" Index="0"/>
+        <Row Name="ICON_UNIT_TAIKO_TEAM_gkls621_PORTRAIT" Atlas="ATLAS_UNIT_TAIKO_TEAM_PORTRAIT_gkls621" Index="0"/>
+        <!--Projects-->
+        <Row Name="ICON_PROJECT_BABANBO_REVIVAL_gkls621" Atlas="ICON_ATLAS_XP2_PROJECTS" Index="9"/>
+    </IconDefinitions>
+</GameData>

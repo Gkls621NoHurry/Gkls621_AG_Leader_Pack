@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+        <Row Tag="LOC_AGENDA_RAN_gkls621_NAME" Language="zh_Hant_HK">
+			<Text>孤單花藝</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_RAN_gkls621_DESCRIPTION" Language="zh_Hant_HK">
+			<Text>絕不簽署屈辱性的條約。喜歡不積極探索地圖，但 [ICON_Culture] 文化產出較高的文明；討厭活躍探索，但 [ICON_Culture] 文化產出低的文明。</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_INFO_LEADER_RAN_gkls621" Language="zh_Hant_HK">
+			<Text>冷靜下來，美竹蘭。人生道路豈有那麼窄，用您的堅強和智慧把可能性拓寬。日日紅染復褪去的夕陽，既可比喻慣常軌跡，又可替您將歲月統計——具體幾時，得以傲立天台，讓世界記住這不凡紅挑染。過去時光裡，您早已無數次證明：​​勝利，源自忠於本我的叛逆。</Text>
+		</Row>
+        
+        <Row Tag="LOC_ABILITY_RAN_WEARINESS_COMBAT_gkls621_DESCRIPTION" Language="zh_Hant_HK">
+			<Text>獲得等於國內所有城市因厭戰情緒而損失宜居度之一半的 [ICON_Strength] 戰鬥力加成。</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_RAN_DOUBLE_FLANKING_gkls621_DESCRIPTION" Language="zh_Hant_HK">
+			<Text>側翼攻擊的 [ICON_Strength] 戰鬥力加成翻倍。</Text>
+		</Row>
+        <Row Tag="LOC_ABILITY_RAN_DOUBLE_SUPPORT_gkls621_DESCRIPTION" Language="zh_Hant_HK">
+			<Text>支援的 [ICON_Strength] 戰鬥力加成翻倍。</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_RAN_QUADED_FLANKING_gkls621_DESCRIPTION" Language="zh_Hant_HK">
+			<Text>側翼攻擊的 [ICON_Strength] 戰鬥力加成翻為四倍。</Text>
+		</Row>
+        <Row Tag="LOC_ABILITY_RAN_QUADED_SUPPORT_gkls621_DESCRIPTION" Language="zh_Hant_HK">
+			<Text>支援的 [ICON_Strength] 戰鬥力加成翻為四倍。</Text>
+		</Row>
+		<Row Tag="LOC_RAN_WAR_WEARINESS_PROPERTY_gkls621" Language="zh_Hant_HK">
+			<Text>全國厭戰情緒+ {Property} [ICON_Strength] 戰鬥力。</Text>
+		</Row>
+
+		<!--Civilopedia contents-->
+		<Row Tag="LOC_LEADER_RAN_gkls621_QUOTE" Language="zh_Hant_HK">
+			<Text>像往常一樣。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_RAN_gkls621_CHAPTER_HISTORY_PARA_1" Language="zh_Hant_HK">
+			<Text>Afterglow的主唱兼節奏吉他手，標誌造型是前額旁的一縷紅色挑染。初中時代的分班將蘭與四位朋友拆散，因此她時常翹課到學校天台作詩，卻被摩卡發現。後來為使大家有項能夠一起做的事，五人組成了Afterglow；也是在這之後，蘭留起了紅挑染。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_RAN_gkls621_CHAPTER_HISTORY_PARA_2" Language="zh_Hant_HK">
+			<Text>個性好強，討厭失敗。雖然外表看上去孤僻而堅韌，心裡卻相當地害怕寂寞。雖然電話通訊錄只能填滿半張螢幕，實際上蘭相當重視她那早已深交的親人和朋友們，特別是同她組團的四位青梅竹馬。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_RAN_gkls621_CHAPTER_HISTORY_PARA_3" Language="zh_Hant_HK">
+			<Text>蘭生在一個擁有百年歷史的花道家族中，又身為獨生女，於是承擔起傳承家業的重任。花道任務與樂隊活動的衝突貫穿蘭的生活。起初蘭因組樂隊遭到父親的反對，而後樂隊生涯又為了花道分合起落。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_RAN_gkls621_CHAPTER_HISTORY_PARA_4" Language="zh_Hant_HK">
+			<Text>蘭與Roselia的友希那組成了BanG Dream!史上第一對「豪門德比」。同樣好勝而不言敗的兩人早已構成良性競爭關係，有《競宴Red×Violet》等曲傳世。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_RAN_gkls621_CHAPTER_HISTORY_PARA_5" Language="zh_Hant_HK">
+			<Text>（整理自萌娘百科）</Text>
+		</Row>
+
+		<Row Tag="LOC_PEDIA_DISTRICTS_PAGE_DISTRICT_IKEBANA_FAMILY_gkls621_CHAPTER_HISTORY_PARA_1" Language="zh_Hant_HK">
+			<Text>花道，即插花藝術，尤指日本的插花藝術流派。日本花道所用材料的範圍自由，不僅囊括新剪的枝蔓、草葉、果實、種子——以及花朵，還可以採用乾枯的植物，甚至玻璃、金屬與塑料製品亦可為造景之要素。起初服務於宗教、權貴的花道，如今早已走進大眾的藝術生活。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_DISTRICTS_PAGE_DISTRICT_IKEBANA_FAMILY_gkls621_CHAPTER_HISTORY_PARA_2" Language="zh_Hant_HK">
+			<Text>美竹蘭傳承的花道似乎偏向傳統流派，需要穿著和服完成插花工作。據悉，如今的她已獲評「高級職稱」。</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_RAN_gkls621_AGENDA_LOW_EXPLORATION_HIGH_CULTURE" Language="zh_Hant_HK">
+			<Text>「外表文靜，但內心有著燃燒的熱情」……比起形容我，果然也相當適合你啊。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_RAN_gkls621_AGENDA_HIGH_EXPLORATION_LOW_CULTURE" Language="zh_Hant_HK">
+			<Text>你才是玩過家家的人。看似忙了很多，卻都是小孩子的遊戲……總之，別管我！</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_RAN_gkls621_AGENDA_LOW_EXPLORATION_HIGH_CULTURE" Language="zh_Hant_HK">
+			<Text>她敬佩儘管落後於探索卻保持高文化的文明。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_RAN_gkls621_AGENDA_HIGH_EXPLORATION_LOW_CULTURE" Language="zh_Hant_HK">
+			<Text>她討厭空張揚探索卻未擁有理想文化產出的文明。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_RAN_gkls621_ANY" Language="zh_Hant_HK">
+			<Text>呃……謝謝。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_RAN_gkls621_ANY" Language="zh_Hant_HK">
+			<Text>夠了……容我不想和你說話。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_RAN_gkls621_ANY" Language="zh_Hant_HK">
+			<Text>那個……我，我不擅長表達自己……不過，總之，有種夥伴比之前增多的感覺呢。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_RAN_gkls621_ANY" Language="zh_Hant_HK">
+			<Text>呃……謝謝。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_RAN_gkls621_ANY" Language="zh_Hant_HK">
+			<Text>夠了……容我不想和你說話。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_RAN_gkls621_ANY" Language="zh_Hant_HK">
+			<Text>你沒有資格對我這樣說話！我們的戰爭現在開始，現在……就要分個勝負！</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_RAN_gkls621_ANY" Language="zh_Hant_HK">
+			<Text>你這些話，是又怎麼樣？我們的戰爭現在開始，現在……就要分個勝負！</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_RAN_gkls621_ANY" Language="zh_Hant_HK">
+			<Text>好吧……你打敗了我……我只有一句話：別小瞧摩卡她們的厲害……</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_RAN_gkls621_ANY" Language="zh_Hant_HK">
+			<Text>好吧……你打敗了我……我只有一句話：別小瞧摩卡她們的厲害……</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_RAN_gkls621_ANY" Language="zh_Hant_HK">
+			<Text>你、你笑什麼啊……诶，覺，覺得我臉紅「很可愛」麼……</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_RAN_gkls621_ANY" Language="zh_Hant_HK">
+			<Text>你真吵啊……</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_RAN_gkls621_ANY" Language="zh_Hant_HK">
+			<Text>…………Afterglow的最新唱片、我的花道習作。好，結束。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_RAN_gkls621_ANY" Language="zh_Hant_HK">
+			<Text>你真是不要臉……</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_RAN_gkls621_ANY" Language="zh_Hant_HK">
+			<Text>你真是不要臉……</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_RAN_gkls621_ANY" Language="zh_Hant_HK">
+			<Text>你好。……自我介紹？我叫美竹蘭，是Afterglow這個樂隊的主唱兼吉他手。……這樣夠了吧？</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_RAN_gkls621_ANY" Language="zh_Hant_HK">
+			<Text>那就這樣，我差不多該走了。她們應該在等我。……什麼叫「她們是誰」……</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_RAN_gkls621_ANY" Language="zh_Hant_HK">
+			<Text>不過，剛剛你告訴我的那件事，那個……我想再了解一下。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_RAN_gkls621_ANY" Language="zh_Hant_HK">
+			<Text>我在說什麼……？哈……我們是相互扶持的那件事！……「相互」……</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_RAN_gkls621_ANY" Language="zh_Hant_HK">
+			<Text>啊，辛苦了。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_RAN_gkls621_ANY" Language="zh_Hant_HK">
+			<Text>這……不、不。沒什麼。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_RAN_gkls621_ANY" Language="zh_Hant_HK">
+			<Text>混賬……</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_RAN_gkls621_ANY" Language="zh_Hant_HK">
+			<Text>和平時不一樣的，是你這些烏合之眾……和平時一樣的，是我。</Text>
+		</Row>
+    </LocalizedText>
+</GameData>

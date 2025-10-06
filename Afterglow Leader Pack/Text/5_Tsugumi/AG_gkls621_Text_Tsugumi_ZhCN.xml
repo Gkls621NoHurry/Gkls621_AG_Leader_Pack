@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+        <Row Tag="LOC_AGENDA_TSUGUMI_gkls621_NAME" Language="zh_Hans_CN">
+			<Text>服务至上</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_TSUGUMI_gkls621_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>重视 [ICON_Amenities] 宜居度，积极收集奢侈品。喜欢 [ICON_Gold] 金币收入高且国民幸福的文明，讨厌 [ICON_Gold] 金币收入高但国民不幸福的文明。</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_INFO_LEADER_TSUGUMI_gkls621" Language="zh_Hans_CN">
+			<Text>羽泽鸫，勤恳甘为少女乐队生活风尚之基石，上进愿作青梅竹马向心合力之先锋。平凡之所以伟大，在于支撑大家生活，四平八稳，使“闲来享用茶点”成为不奢侈的凡例。而您从未沾沾自喜，愈发精益求精；以平凡力量雕琢的道场，终将绽放更完美的芳香。</Text>
+		</Row>
+        
+        <Row Tag="LOC_CAFFE_BASE_GOLD_gkls621" Language="zh_Hans_CN">
+			<Text>基础提供 + {1_Num} [ICON_Gold] 金币。</Text>
+		</Row>
+		<Row Tag="LOC_CAFFE_DISTRICT_GOLD_gkls621" Language="zh_Hans_CN">
+			<Text>+ {1_Num} [ICON_Gold] 来自相邻区域。</Text>
+		</Row>
+        <Row Tag="LOC_CAFFE_RIVER_GOLD_gkls621" Language="zh_Hans_CN">
+			<Text>+ {1_Num} [ICON_Gold] 来自相邻河流。</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_TSUGU_SHOWCASE_gkls621_NAME" Language="zh_Hans_CN">
+			<Text>咖啡展柜</Text>
+		</Row>
+        <Row Tag="LOC_BUILDING_TSUGU_SHOWCASE_gkls621_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>咖啡店的附赠建筑。</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_TSUGU_SHOWCASE_gkls621_THEMING_BONUS" Language="zh_Hans_CN">
+			<Text>[ICON_GreatWork_Product] 产品产出+100%，其 [ICON_Tourism] 旅游业绩+200%。</Text>
+		</Row>
+        <Row Tag="LOC_CAFFE_AMENITY_FROM_CITY_OUTGOING_ROUTES_gkls621" Language="zh_Hans_CN">
+			<Text>+{1_iBonus} {2_YieldIcon} 宜居度来自从本城出发的 {3_AdjacentSubjectNum} 条 [ICON_TradeRoute] 贸易路线。</Text>
+		</Row>
+        <Row Tag="LOC_CAFFE_HOUSING_FROM_CITY_INCOMING_ROUTES_gkls621" Language="zh_Hans_CN">
+			<Text>+{1_iBonus} {2_YieldIcon} 住房来自终到本城市的 {3_AdjacentSubjectNum} 条 [ICON_TradeRoute] 贸易路线。</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_TSUGUMI_CAVALRY_ESCORT_MOVEMENT_gkls621_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>可凭借更高 [ICON_Movement] 移动力护送编队单位。</Text>
+		</Row>
+
+		<!--Civilopedia contents-->
+		<Row Tag="LOC_LEADER_TSUGUMI_gkls621_QUOTE" Language="zh_Hans_CN">
+			<Text>有车吗？</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_TSUGUMI_gkls621_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>Afterglow的键盘手，羽丘女子学园的学生会长，乐队的发起者以及心灵支柱。可能是BanG Dream!中最平凡的女孩子（造型设定多少有些往路人方向靠拢），但是正因为普通的关系，是一个努力家，无论多小的事都不会放弃。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_TSUGUMI_gkls621_CHAPTER_HISTORY_PARA_2" Language="zh_Hans_CN">
+			<Text>家中经营的“羽泽咖啡店”是当地商店街的有名店铺，鸫是咖啡店的看板娘，伊芙等人也会在此打工。可是虽然家里开咖啡店，自己却不喜欢喝黑咖啡。此外，有一项特技是在训练之后最快找出最亮的星星。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_TSUGUMI_gkls621_CHAPTER_HISTORY_PARA_3" Language="zh_Hans_CN">
+			<Text>摩卡喜欢管鸫叫“鸫鸫”（つぐ，即“茨菇”），而且总是将“鸫”字活用，如后台对话中曾经说过“鸫鸫，你今天鸫了没有”，在小漫画中也用过这个词称赞面包。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_TSUGUMI_gkls621_CHAPTER_HISTORY_PARA_4" Language="zh_Hans_CN">
+			<Text>长期以来，鸫可能是作为《BanG Dream! 少女乐团派对》的相关数据查询机器人而出名的。其中借助Tsugu机器人查询协力房间的命令“ycm”（有车吗？）与Tsugu无可用房间时的回复“myc”（没有车！）等已经逆输入回鸫的角色本身，成为玩家间的某种刻板印象。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_TSUGUMI_gkls621_CHAPTER_HISTORY_PARA_5" Language="zh_Hans_CN">
+			<Text>（整理自萌娘百科）</Text>
+		</Row>
+
+		<Row Tag="LOC_PEDIA_DISTRICTS_PAGE_DISTRICT_CAFFE_gkls621_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>咖啡馆作为一种常见的铺面，既可承担小资情调的休憩，又可服务挑灯夜战的学子，甚至孕育世界级的证券交易所。至于为何替代“医疗区”，大抵是因为其出售便利的提神品，助未睡或未睡够者“满血复活”。据说，传统的意式浓缩咖啡“Espresso”就是点单后立马接过咖啡杯，直接于柜台上仰脖一饮而尽。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_DISTRICTS_PAGE_DISTRICT_CAFFE_gkls621_CHAPTER_HISTORY_PARA_2" Language="zh_Hans_CN">
+			<Text>羽泽咖啡店作为BanG Dream!世界观中最负盛名的咖啡店，既有可口的餐食，又有善解人意的鸫在，大抵也可称作“解忧咖啡店”了。</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_TSUGUMI_gkls621_AGENDA_HIGH_INCOME_HIGH_HAPPINESS" Language="zh_Hans_CN">
+			<Text>您的优点，正是温柔体贴呢。非常感谢！</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_TSUGUMI_gkls621_AGENDA_HIGH_INCOME_LOW_HAPPINESS" Language="zh_Hans_CN">
+			<Text>我们既然活着，就得想着让彼此快乐，而不是冠冕堂皇地抹杀这些需求！</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_TSUGUMI_gkls621_AGENDA_HIGH_INCOME_HIGH_HAPPINESS" Language="zh_Hans_CN">
+			<Text>她喜欢收入高且国民幸福的文明。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_TSUGUMI_gkls621_AGENDA_HIGH_INCOME_LOW_HAPPINESS" Language="zh_Hans_CN">
+			<Text>她讨厌忽视民众一味暴利的文明。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_TSUGUMI_gkls621_ANY" Language="zh_Hans_CN">
+			<Text>啊，辛，辛苦您了！不过，我可不能就此满足啊！要更加更加努力才行！</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_TSUGUMI_gkls621_ANY" Language="zh_Hans_CN">
+			<Text>失，失礼了！我还必须再磨练一些……！</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_TSUGUMI_gkls621_ANY" Language="zh_Hans_CN">
+			<Text>我本来就有些迟钝，办事经常不顺利，有时候也会灰心丧气。不过，只要跟大家在一起我就能变得积极。觉得自己可以无限的去努力！</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_TSUGUMI_gkls621_ANY" Language="zh_Hans_CN">
+			<Text>啊，辛，辛苦您了！不过，我可不能就此满足啊！要更加更加努力才行！</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_TSUGUMI_gkls621_ANY" Language="zh_Hans_CN">
+			<Text>失，失礼了！我还必须再磨练一些……！</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_TSUGUMI_gkls621_ANY" Language="zh_Hans_CN">
+			<Text>像往常一样的平静生活，事到如今已经不可逆转了……为了可以成为大家的依靠，总而言之先努力！</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_TSUGUMI_gkls621_ANY" Language="zh_Hans_CN">
+			<Text>像往常一样的平静生活，事到如今已经不可逆转了……为了可以成为大家的依靠，总而言之先努力！</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_TSUGUMI_gkls621_ANY" Language="zh_Hans_CN">
+			<Text>我还是第一次，想要停下来……还有谁会站出来鼓励我呢？</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_TSUGUMI_gkls621_ANY" Language="zh_Hans_CN">
+			<Text>我还是第一次，想要停下来……还有谁会站出来鼓励我呢？</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_TSUGUMI_gkls621_ANY" Language="zh_Hans_CN">
+			<Text>您可真温柔呢，一直这样关心着我们。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_TSUGUMI_gkls621_ANY" Language="zh_Hans_CN">
+			<Text>抱、抱歉！我马上出来！</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_TSUGUMI_gkls621_ANY" Language="zh_Hans_CN">
+			<Text>请收下羽泽咖啡店的心意：这里是本人亲手烤制的饼干，还有妈妈做的蛋糕，以……以及本季节的限定特调咖啡！请多指教！</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_TSUGUMI_gkls621_ANY" Language="zh_Hans_CN">
+			<Text>……给大家添麻烦了……</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_TSUGUMI_gkls621_ANY" Language="zh_Hans_CN">
+			<Text>接受——你的想法吗？恕我直言，我没有这种决心。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_TSUGUMI_gkls621_ANY" Language="zh_Hans_CN">
+			<Text>呃、那个，我叫羽泽鸫！家里开了一家咖啡馆，我放学以后会在那里帮忙！自我介绍，自我介绍……那个……啊，乐队！我还在玩乐队！叫Afterglow，所有成员都特别厉害特别帅！</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_TSUGUMI_gkls621_ANY" Language="zh_Hans_CN">
+			<Text>羽泽咖啡店里提供甜点雅座哦！请，请问您是否高兴，莅临一试呢？</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_TSUGUMI_gkls621_ANY" Language="zh_Hans_CN">
+			<Text>我也想在将来，能追上大家……！嘿嘿……就是……现在……能先追随一下您吗？</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_TSUGUMI_gkls621_ANY" Language="zh_Hans_CN">
+			<Text>……这，这样可以吗？</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_TSUGUMI_gkls621_ANY" Language="zh_Hans_CN">
+			<Text>欢迎光临~</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_TSUGUMI_gkls621_ANY" Language="zh_Hans_CN">
+			<Text>诶？很高兴我对你说了这番话吗？谢、谢谢你能这么说……</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_TSUGUMI_gkls621_ANY" Language="zh_Hans_CN">
+			<Text>不能把这个，当作自己不去努力的借口！</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_TSUGUMI_gkls621_ANY" Language="zh_Hans_CN">
+			<Text>咦、你……那个、怎么了吗？要过去吗？那我让一下？……啊——不对劲！</Text>
+		</Row>
+    </LocalizedText>
+</GameData>

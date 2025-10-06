@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+        <Row Tag="LOC_LEADER_TSUGUMI_gkls621_NAME" Language="en_US">
+			<Text>Tsugumi Hazawa</Text>
+		</Row>
+
+		<Row Tag="LOC_TRAIT_LEADER_TSUGUMI_gkls621_NAME" Language="en_US">
+			<Text>Great Ordinary</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_TSUGUMI_gkls621_DESCRIPTION" Language="en_US">
+			<Text>Each type of improved resource within your borders provides +1 [ICON_TradeRoute] Trade Route capacity. Trade Routes provide +2 [ICON_Food] Food, +2 [ICON_Production] Production, and +2 [ICON_Gold] Gold for each of your [ICON_TradingPost] Trading Posts they pass through. Each [ICON_Governor] Governor promotion established in a city provides +1 [ICON_Science] Science to Trade Routes ending in that city; after unlocking 'Mercantilism', provides an additional +1 [ICON_Science] Science. Cavalry can escort Formation units with higher [ICON_Movement] Movement.</Text>
+        </Row>
+        <Row Tag="LOC_DISTRICT_CAFFE_gkls621_NAME" Language="en_US">
+			<Text>Cafe</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_CAFFE_gkls621_DESCRIPTION" Language="en_US">
+			<Text>A unique District for Tsugumi Hazawa that replaces the Medical Quarter. Unlocked with 'Currency', has a lower base cost. Base +3 [ICON_Gold] Gold, Rivers provide a major [ICON_Gold] Gold adjacency bonus, Districts provide a standard [ICON_Gold] Gold adjacency bonus. Upon completion, provides a [ICON_TradingPost] Trading Post for this city and one copy of [ICON_RESOURCE_COFFEE] Coffee. When Tsugumi's Traders pass through a Cafe, generate two Builders.[NEWLINE](When 'New Adjacency Bonuses' is enabled) Each outgoing [ICON_TradeRoute] Trade Route from this city provides +2 [ICON_Amenities] Amenities; each incoming [ICON_TradeRoute] Trade Route to this city provides +2 [ICON_Housing] Housing. Every 6 [ICON_Citizen] Population in this city provides +1 [ICON_TradeRoute] Trade Route capacity.[NEWLINE](When 'Monopolies and Corporations' mode is enabled) Provides one [ICON_GreatWork_Product] Product slot and one Coffee Product.</Text>
+		</Row>
+    </LocalizedText>
+</GameData>

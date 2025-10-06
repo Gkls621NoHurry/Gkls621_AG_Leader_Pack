@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+        <Row Tag="LOC_AGENDA_MOCA_gkls621_NAME" Language="en_US">
+			<Text>Slow Words, Deep Feelings</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_MOCA_gkls621_DESCRIPTION" Language="en_US">
+			<Text>Values [ICON_Food] Food and [ICON_Gold] Gold output. Likes civilizations with high [ICON_Science] Science and [ICON_Culture] Culture output that favor peace; dislikes civilizations with high [ICON_Science] Science and [ICON_Culture] Culture output that invade other nations.</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_INFO_LEADER_MOCA_gkls621" Language="en_US">
+			<Text>Moca Aoba, a slow voice can't hide deep affection, a mischievous smile can't conceal consideration. Her usual carefree cheerfulness can see into the deepest knots of the heart—after all, both bread and strategy are fermented wisdom. Perhaps past habits are only suited for amusing a small circle; but beyond point cards, there are similar wits. Just maintain that relaxed mindset, and fortune will surely come "kneading" your way.</Text>
+		</Row>
+        
+		<Row Tag="LOC_PROJECT_BABANBO_REVIVAL_gkls621_NAME" Language="en_US">
+			<Text>Plead to Babanbo-sama</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_BABANBO_REVIVAL_gkls621_SHORT_NAME" Language="en_US">
+			<Text>Plead to Babanbo-sama</Text>
+		</Row>
+        <Row Tag="LOC_PROJECT_BABANBO_REVIVAL_gkls621_DESCRIPTION" Language="en_US">
+			<Text>Moca's unique project, available in the Palace when Babanbo-sama dies. Upon completion, removes the Babanbo Statue from the Capital and resurrects Babanbo-sama.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_BABANBO_STATUE_gkls621_NAME" Language="en_US">
+			<Text>Babanbo Statue</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_BABANBO_STATUE_gkls621_DESCRIPTION" Language="en_US">
+			<Text>A special building generated in the Capital after Babanbo-sama's death. +8 [ICON_Faith] Faith.</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_MOCA_DIP_gkls621_NAME" Language="en_US">
+			<Text>Diplomatic Quarter</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_MOCA_DIP_gkls621_DESCRIPTION" Language="en_US">
+			<Text>Build a Diplomatic Quarter with a Builder.</Text>
+		</Row>
+        <Row Tag="LOC_IMPROVEMENT_MOCA_GOV_gkls621_NAME" Language="en_US">
+			<Text>Government Plaza</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_MOCA_GOV_gkls621_DESCRIPTION" Language="en_US">
+			<Text>Build a Government Plaza with a Builder.</Text>
+		</Row>
+        <Row Tag="LOC_GREAT_PERSON_CLASS_BABANBO_gkls621_NAME" Language="en_US">
+			<Text>Babanbo-sama</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_BABANBO_gkls621_NAME" Language="en_US">
+			<Text>Babanbo-sama</Text>
+		</Row>
+        <Row Tag="LOC_PROMOTION_CLASS_BABANBO_gkls621_NAME" Language="en_US">
+			<Text>Babanbo-sama</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_REMEDY_gkls621_NAME" Language="en_US">
+			<Text>Plague-Banishing Art</Text>
+		</Row>
+        <Row Tag="LOC_PROMOTION_VOUCHER_gkls621_NAME" Language="en_US">
+			<Text>Voucher</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_MELONPAN_gkls621_NAME" Language="en_US">
+			<Text>Melonpan</Text>
+		</Row>
+        <Row Tag="LOC_PROMOTION_GOUKOKU_gkls621_NAME" Language="en_US">
+			<Text>Lost One's Goukoku</Text>
+		</Row>
+        <Row Tag="LOC_PROMOTION_QUICKTONGUE_gkls621_NAME" Language="en_US">
+			<Text>Quick Tongue</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_TRANSFAT_gkls621_NAME" Language="en_US">
+			<Text>TransFAT</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_USUAL_gkls621_NAME" Language="en_US">
+			<Text>Usual</Text>
+		</Row>
+        <Row Tag="LOC_PROMOTION_REMEDY_gkls621_DESCRIPTION" Language="en_US">
+			<Text>All friendly units (including self) within 3 tiles do not suffer [ICON_Strength] Combat Strength penalties when injured, and heal 90 [ICON_Damaged] HP after killing a unit.</Text>
+		</Row>
+        <Row Tag="LOC_PROMOTION_VOUCHER_gkls621_DESCRIPTION" Language="en_US">
+			<Text>After combat, gain [ICON_Faith] Faith and [ICON_Culture] Culture equal to the total HP lost by both sides.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_MELONPAN_gkls621_DESCRIPTION" Language="en_US">
+			<Text>If you did not move, gain +1 additional [ICON_Strength] attack this turn. Adjacent friendly military units immediately receive a free [ICON_Promotion] promotion after killing a unit.</Text>
+		</Row>
+        <Row Tag="LOC_PROMOTION_GOUKOKU_gkls621_DESCRIPTION" Language="en_US">
+			<Text>All friendly units (including self) within 3 tiles gain +10 [ICON_GreatProphet] Great Prophet points and +10 [ICON_GreatMusician] Great Musician points after killing an enemy unit.</Text>
+		</Row>
+        <Row Tag="LOC_PROMOTION_QUICKTONGUE_gkls621_DESCRIPTION" Language="en_US">
+			<Text>When killing a unit with higher base [ICON_Strength] Combat Strength, gain 1 [ICON_Envoy] Envoy. When capturing a city, gain 2 [ICON_Governor] Governor Titles and one free technology.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_TRANSFAT_gkls621_DESCRIPTION" Language="en_US">
+			<Text>At the start of the turn, all friendly units (including self) within 6 tiles gain 30 [ICON_Gold] Gold and 30 [ICON_Faith] Faith from each adjacent Mountain-type tile.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_USUAL_gkls621_DESCRIPTION" Language="en_US">
+			<Text>All cities gain +25% [ICON_Production] Production when building Wonders. Each time Babanbo-sama dies, all of Moca's cities gain +1 [ICON_Amenities] Amenities, +1 [ICON_Citizen] Population, and each Population provides an additional +4 [ICON_Production] Production.</Text>
+		</Row>
+        <Row Tag="LOC_ABILITY_BABANBO_gkls621_DESCRIPTION" Language="en_US">
+			<Text>Ignores Zone of Control and penalties to [ICON_Movement] Movement from terrain, features, and rivers. +6 [ICON_Strength] Combat Strength for each type of [ICON_GreatPerson] Great Person ever recruited.</Text>
+		</Row>
+        <Row Tag="LOC_ABILITY_BABANBO_EXP_gkls621_DESCRIPTION" Language="en_US">
+			<Text>+100% experience gain.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_REMEDY_UNITS_NO_REDUCTION_DAMAGE_gkls621_DESCRIPTION" Language="en_US">
+			<Text>Does not suffer [ICON_Strength] Combat Strength penalties when injured.</Text>
+		</Row>
+        <Row Tag="LOC_ABILITY_REMEDY_UNITS_HEAL_FROM_COMBAT_gkls621_DESCRIPTION" Language="en_US">
+			<Text>Heals 90 [ICON_Damaged] HP after killing a unit.</Text>
+		</Row>
+        <Row Tag="LOC_ABILITY_GOUGOKU_UNIT_PROPHET_POINT_FROM_KILL_gkls621_DESCRIPTION" Language="en_US">
+			<Text>Gains +10 [ICON_GreatProphet] Great Prophet points after killing an enemy unit.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_GOUGOKU_UNIT_MUSICIAN_POINT_FROM_KILL_gkls621_DESCRIPTION" Language="en_US">
+			<Text>Gains +10 [ICON_GreatMusician] Great Musician points after killing an enemy unit.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_TRANSFAT_UNITS_MOUNTAIN_GOLD_gkls621_DESCRIPTION" Language="en_US">
+			<Text>At the start of the turn, gains 30 [ICON_Gold] Gold and 30 [ICON_Faith] Faith from each adjacent Mountain-type tile.</Text>
+		</Row>
+		<Row Tag="LOC_BABANBO_GREAT_PERSON_COMBAT_gkls621" Language="en_US">
+			<Text>Great Person types recruited provide + {Property} [ICON_Strength] Combat Strength.</Text>
+		</Row>
+
+		<!--Civilopedia contents-->
+		<Row Tag="LOC_LEADER_MOCA_gkls621_QUOTE" Language="en_US">
+			<Text>Little Moca is going to dig in~</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MOCA_gkls621_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>The lead guitarist of Afterglow, her 0.5x speed soft speech is irresistibly charming. But when singing, Moca can enunciate very clearly—so, Mo~ca~ is~ not~ slow~ at~ all~~</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MOCA_gkls621_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>Although she often sleeps in class, she has the best academic performance in Afterglow. Also possesses an excellent sense of music, able to play back melodies after hearing them just once.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MOCA_gkls621_CHAPTER_HISTORY_PARA_3" Language="en_US">
+			<Text>Always wearing a mischievous smile, Moca is the most mysterious member of Afterglow, skillfully evading any topic she doesn't wish to disclose, leaving even her four childhood friends not fully understanding her. While Moca usually seems to enjoy teasing her friends, she is actually the most perceptive among the band members, especially when it comes to caring for her companions, and is also the one who understands Ran the best.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MOCA_gkls621_CHAPTER_HISTORY_PARA_4" Language="en_US">
+			<Text>Moca is obsessed with bread, with Yamabuki Bakery's products being her favorite. With an astonishing appetite, Moca can easily eat over ten bread items in one sitting, then, true to her prankster nature, claims "the fat got transferred to Hi-chan". She also has a habit of collecting point cards, often trying to use them to get bread for "free".</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MOCA_gkls621_CHAPTER_HISTORY_PARA_5" Language="en_US">
+			<Text>(Compiled from Moegirlpedia)</Text>
+		</Row>
+
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_BABANBO_gkls621_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>See the "Babanbo-sama" section on the Great Person page.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_BABANBO_gkls621_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>"Babanbo-sama" originates from Episode 12 of the mini-comedy anime "BanG Dream! Girls Band Party! PICO". In this episode, to cure Ran's persistent high fever, the other four members of Afterglow tried every folk remedy. Moca found information stating that "the Ungaruhoganga tribe believes illness is caused by demons; praying to the spirit Babanbo is said to bring recovery," so the group enshrined Ran along with offerings to summon the god.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_BABANBO_gkls621_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>This side story, along with the meme "Supervise BanG! Dream, save Sakura", and the bizarrely fitting style of "Babanbo-sama" with Moca's character, made it one of the most memorable episodes of the Pico series.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_REMEDY_gkls621_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Literally refers to the disease-curing role Babanbo-sama plays in the local folklore (?) and the "functions" performed by Moca and the others.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_VOUCHER_gkls621_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Moca enjoys collecting point cards, especially those from Yamabuki Bakery, and has even tried to pay solely with points (to get bread). She also once tried to share her sadness using Ran's rock microphone at CiRCLE studio because her point cards had expired.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_MELONPAN_gkls621_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Just as Rimi loves chocolate coronet bread, Moca has her own favorite: melonpan. Melonpan resembles the Chinese "pineapple bun" but differs in texture and other aspects. It's a frequent guest in ACGN works, beloved by classic characters like Shana and Shiina Mashiro.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_GOUKOKU_gkls621_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>"Lost One's Goukoku" is a famous Vocaloid song by Neru, using the Kagamine Rin voice library, reflecting the pain of students lost in the sea of academics. Afterglow's cover debuted in 2018, featuring Ayane Sakura's dedicated performance belting the high notes in the chorus, leading to the phrase "Sakura Throat Protection Association".</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_QUICKTONGUE_gkls621_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Moca's first impression is often her drawn-out speech. But little Moca is a genius after all, so clearly, her speech speed can also be considered "very fast"—the greatest voices have no sound; who knows if there are words between the words?</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_TRANSFAT_gkls621_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Himari always worries about dieting, while Moca never seems to gain weight. From their back-and-forth banter, the playful saying "transferring the fat to Hi-chan" naturally emerged.</Text>
+		</Row>
+        <Row Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_USUAL_gkls621_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>The members of Afterglow are childhood friends who grew up together, a "community of fate" bound by a tacit understanding that needs no emphasis. The band days filled with life's turbulence, along with the intensely hot sunsets viewed from the heights, have long been etched into the members' hearts.</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_MOCA_gkls621_AGENDA_HIGH_SCIENCE_CULTURE_PEACE" Language="en_US">
+			<Text>I felt back then that I had to be with Ran, no matter what, and always be there to give her a push from behind. Eh~ you feel the same way, right~?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_MOCA_gkls621_AGENDA_HIGH_SCIENCE_CULTURE_WARMONGER" Language="en_US">
+			<Text>But, even though they struggle like that, they're actually very afraid of being alone, you know...</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_MOCA_gkls621_AGENDA_HIGH_SCIENCE_CULTURE_PEACE" Language="en_US">
+			<Text>She likes highly developed civilizations that uphold peace.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_MOCA_gkls621_AGENDA_HIGH_SCIENCE_CULTURE_WARMONGER" Language="en_US">
+			<Text>She dislikes leading civilizations that invade other nations.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_MOCA_gkls621_ANY" Language="en_US">
+			<Text>Hmm~ Hmm~ Hmm~</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_MOCA_gkls621_ANY" Language="en_US">
+			<Text>Oh dear, little Moca can't agree just yet~ — Eh~ if you sigh, happiness will run away, you know~!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_MOCA_gkls621_ANY" Language="en_US">
+			<Text>Little Moca is very kind, you see~ Can't just leave friends alone. Ehehe~</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_MOCA_gkls621_ANY" Language="en_US">
+			<Text>Hmm~ Hmm~ Hmm~</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_MOCA_gkls621_ANY" Language="en_US">
+			<Text>Oh dear, little Moca can't agree just yet~ — Eh~ if you sigh, happiness will run away, you know~!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_MOCA_gkls621_ANY" Language="en_US">
+			<Text>Ah~ If there are devils in this world, then your synchronization rate is nothing to scoff at~[NEWLINE]Moca "Holmes" Aoba has seen through it all; you two must be really close, huh~</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_MOCA_gkls621_ANY" Language="en_US">
+			<Text>Ah~ If there are devils in this world, then your synchronization rate is nothing to scoff at~[NEWLINE]Moca "Holmes" Aoba has seen through it all; you two must be really close, huh~</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_MOCA_gkls621_ANY" Language="en_US">
+			<Text>Oh, no one's here again today~... When no one's watching, the sunset disappears in the blink of an eye...</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_MOCA_gkls621_ANY" Language="en_US">
+			<Text>Oh, no one's here again today~... When no one's watching, the sunset disappears in the blink of an eye...</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_MOCA_gkls621_ANY" Language="en_US">
+			<Text>You're welcome~ Then little Moca will graciously accept it too~</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_MOCA_gkls621_ANY" Language="en_US">
+			<Text>No thanks~ Little Moca will have to decline this time~</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_MOCA_gkls621_ANY" Language="en_US">
+			<Text>Little Moca brought a bread set from Yamabuki Bakery, you see: Bacon &amp; Shrimp Bread, Croissants, and even Mille-feuille~ — Well~ if you don't want to miss out, you'd better dig in quickly~</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_MOCA_gkls621_ANY" Language="en_US">
+			<Text>Hmm~ That's not very Tsugumi-like at all~!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_MOCA_gkls621_ANY" Language="en_US">
+			<Text>Hmm~ That's not very Tsugumi-like at all~!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_MOCA_gkls621_ANY" Language="en_US">
+			<Text>My name is Moca Aoba. Currently, I'm the guitarist for Afterglow. Oh~, and also, I really love bread~</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_MOCA_gkls621_ANY" Language="en_US">
+			<Text>There's a very tasty bakery near us, you know~ Want to go now?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_MOCA_gkls621_ANY" Language="en_US">
+			<Text>...Huh? What am I doing? It's that place, boss. Gonna stop by the 'usual place' on the way—the bakery on your side~</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_MOCA_gkls621_ANY" Language="en_US">
+			<Text>Seems like you have quite a story too~ As an exchange, little Moca can give you a rare, out-of-print voucher for Yamabuki Bakery~</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_MOCA_gkls621_ANY" Language="en_US">
+			<Text>Ah, hello. Fancy meeting you here, what a coincidence~</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_MOCA_gkls621_ANY" Language="en_US">
+			<Text>Phew~ Seeing your smile, I feel relieved and now I'm getting sleepy...</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_MOCA_gkls621_ANY" Language="en_US">
+			<Text>Hoo, hoo, hoo~. You'll have to be much more careful when walking at night from now on, you know~</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_MOCA_gkls621_ANY" Language="en_US">
+			<Text>How cruel~ Even the clever little Moca is starting to not understand why you've come to this point, you know?</Text>
+		</Row>
+    </LocalizedText>
+</GameData>
